@@ -1,29 +1,8 @@
-"""
-Module for printing the user's age.
+"""Module for printing the user's age."""
 
-This module provides a simple function `print_age` that takes an integer
-representing an age and prints it to standard output. The function is
-intended to be used in educational exercises where the user is asked to
-output their age.
+# Define the user's age. Adjust as needed.
+AGE = 30
 
-Example
--------
->>> from age import print_age
->>> print_age(30)
-30
-"""
-
-def print_age(age: int) -> None:
-    """
-    Print the given age to standard output.
-
-    Parameters
-    ----------
-    age : int
-        The age to print. It is expected to be a non-negative integer.
-
-    Returns
-    -------
-    None
-    """
-    print(age)
+def print_age() -> None:
+    """Prints the user's age to stdout."""
+    print(f"Your age is {AGE}")
