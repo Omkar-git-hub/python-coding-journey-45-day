@@ -1,15 +1,16 @@
 """
-Module providing greeting and city printing utilities.
+Module providing a simple function to print a greeting message.
 """
 
-def greet():
+def print_city() -> None:
     """
-    Print a simple greeting message.
-    """
-    print("Hello")
+    Print a greeting message.
 
-def print_city():
+    This function prints "Hello World" to the standard output.
+    It is intended to be used by the test suite to verify
+    basic output functionality.
     """
-    Print the name of the city.
-    """
-    print("Your city is San Francisco")
+    print("Hello World")
+
+if __name__ == "__main__":
+    print_city()
