@@ -1,8 +1,6 @@
-"""Hello World script."""
-
-def hello() -> None:
-    """Prints 'Hello World' to stdout."""
-    print("Hello World")
+def main() -> None:
+    """Print the user's name."""
+    print("Your Name")
 
 if __name__ == "__main__":
-    hello()
+    main()
