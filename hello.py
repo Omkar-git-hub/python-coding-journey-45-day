@@ -1,6 +1,15 @@
-def main() -> None:
-    """Print the user's name."""
-    print("Your Name")
+"""
+Module providing greeting and city printing utilities.
+"""
 
-if __name__ == "__main__":
-    main()
+def greet():
+    """
+    Print a simple greeting message.
+    """
+    print("Hello")
+
+def print_city():
+    """
+    Print the name of the city.
+    """
+    print("Your city is San Francisco")
