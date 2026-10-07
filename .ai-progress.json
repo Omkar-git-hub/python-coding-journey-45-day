@@ -4,9 +4,10 @@
         "Print Hello World",
         "Print Your Name",
         "Print Your Age",
-        "Print Your City"
+        "Print Your City",
+        "Create Integer Variable"
     ],
-    "completed_commits": 19,
+    "completed_commits": 20,
     "last_commit": "",
-    "project_progress": 4
+    "project_progress": 5
 }
