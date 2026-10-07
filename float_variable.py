@@ -1,12 +1,8 @@
-"""
-Module providing a simple float variable.
+"""Module that defines a floating‑point variable.
 
-This module defines a single public variable `float_variable` which holds a
-floating point number. The variable is intended for use in examples and
-educational tests that demonstrate handling of float types in Python.
+The value is chosen to be a common decimal number so that the tests
+can assert both its type and its exact value.
 """
 
-# Public variable
-float_variable: float = 3.14159
-
-__all__ = ["float_variable"]
+# A floating‑point number used in the test suite.
+float_variable: float = 3.14

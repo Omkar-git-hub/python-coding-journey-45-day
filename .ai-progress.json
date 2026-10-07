@@ -9,9 +9,10 @@
         "Create Float Variable",
         "Create String Variable",
         "Create Boolean Variable",
-        "Print Multiple Variables"
+        "Print Multiple Variables",
+        "Add Comments in Python"
     ],
-    "completed_commits": 23,
+    "completed_commits": 24,
     "last_commit": "",
-    "project_progress": 9
+    "project_progress": 10
 }

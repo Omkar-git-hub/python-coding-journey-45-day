@@ -1,31 +1,22 @@
-"""
-Module for printing a person's age.
+"""Module that defines and prints an age value.
 
-This module provides a simple function that prints the age
-in a human‑readable format.  The function is intentionally
-minimal to keep the repository lightweight and to serve as
-an example for the "Print Your Age" exercise.
+This module demonstrates a simple use of a global variable and a
+function that prints that variable.  The value is intentionally
+chosen to be a small integer so that the tests can easily verify
+the output.
 
-Example
--------
->>> from age import print_age
->>> print_age(30)
-Age: 30
+The module can be executed directly, in which case the :func:`main`
+function will run and print the age to standard output.
 """
 
-def print_age(age: int) -> None:
-    """
-    Print the given age in a formatted string.
+# The age value used throughout the project.
+age: int = 30
 
-    Parameters
-    ----------
-    age : int
-        The age to print.  It is expected to be a non‑negative integer.
-
-    Returns
-    -------
-    None
-        The function prints directly to standard output and returns
-        ``None``.
-    """
+def main() -> None:
+    """Print the age in a human‑readable format."""
+    # Using an f‑string keeps the code concise and readable.
     print(f"Age: {age}")
+
+# Allow the module to be run as a script.
+if __name__ == "__main__":
+    main()
