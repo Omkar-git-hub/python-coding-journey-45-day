@@ -10,9 +10,10 @@
         "Create String Variable",
         "Create Boolean Variable",
         "Print Multiple Variables",
-        "Add Comments in Python"
+        "Add Comments in Python",
+        "Check Variable Type"
     ],
-    "completed_commits": 24,
+    "completed_commits": 25,
     "last_commit": "",
-    "project_progress": 10
+    "project_progress": 11
 }
