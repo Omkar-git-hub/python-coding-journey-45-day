@@ -11,9 +11,10 @@
         "Create Boolean Variable",
         "Print Multiple Variables",
         "Add Comments in Python",
-        "Check Variable Type"
+        "Check Variable Type",
+        "Convert String to Integer"
     ],
-    "completed_commits": 25,
+    "completed_commits": 26,
     "last_commit": "",
-    "project_progress": 11
+    "project_progress": 12
 }
