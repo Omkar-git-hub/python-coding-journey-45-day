@@ -1,8 +1,9 @@
-"""Module to print Hello World."""
+"""Module to print a greeting message.
 
-def hello() -> None:
-    """Prints 'Hello World' to stdout."""
+This module provides a simple function that prints
+the classic "Hello World" message to standard output.
+"""
+
+def say_hello() -> None:
+    """Print 'Hello World' to stdout."""
     print("Hello World")
-
-if __name__ == "__main__":
-    hello()
