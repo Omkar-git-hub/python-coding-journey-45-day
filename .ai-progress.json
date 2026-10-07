@@ -1,5 +1,5 @@
 {
-    "current_day": 2,
+    "current_day": 3,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -8,9 +8,10 @@
         "Create Integer Variable",
         "Create Float Variable",
         "Create String Variable",
-        "Create Boolean Variable"
+        "Create Boolean Variable",
+        "Print Multiple Variables"
     ],
     "completed_commits": 23,
     "last_commit": "",
-    "project_progress": 8
+    "project_progress": 9
 }
