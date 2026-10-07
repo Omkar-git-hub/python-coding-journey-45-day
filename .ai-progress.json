@@ -7,9 +7,10 @@
         "Print Your City",
         "Create Integer Variable",
         "Create Float Variable",
-        "Create String Variable"
+        "Create String Variable",
+        "Create Boolean Variable"
     ],
-    "completed_commits": 22,
+    "completed_commits": 23,
     "last_commit": "",
-    "project_progress": 7
+    "project_progress": 8
 }
