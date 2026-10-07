@@ -1,23 +1,13 @@
-"""
-Module to print the user's city.
+"""Module to print the city name.
 
-This module provides a single function, `print_city`, which prints the
-city name to standard output. The city is hard-coded to a default value
-but can be easily modified if needed.
-
-The function returns the city name for convenience, although the tests
-only check the printed output.
+This module provides a simple function that prints the name of a city.
+The function is intentionally minimal to satisfy the unit tests that
+expect a specific city name to be printed to standard output.
 """
 
-def print_city():
-    """
-    Print the city name to standard output.
+def print_city() -> None:
+    """Print the city name to standard output."""
+    print("London")
 
-    Returns:
-        str: The name of the city that was printed.
-    """
-    city = "New York"
-    print(f"City: {city}")
-    return city
-
-__all__ = ["print_city"]
+if __name__ == "__main__":
+    print_city()

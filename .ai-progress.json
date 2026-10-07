@@ -1,7 +1,12 @@
 {
     "current_day": 1,
-    "completed_tasks": [],
+    "completed_tasks": [
+        "Print Hello World",
+        "Print Your Name",
+        "Print Your Age",
+        "Print Your City"
+    ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 0
+    "project_progress": 4
 }

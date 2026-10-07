@@ -1,8 +1,31 @@
-"""Module for printing the user's age."""
+"""
+Module for printing a person's age.
 
-# Define the user's age. Adjust as needed.
-AGE = 30
+This module provides a simple function that prints the age
+in a human‑readable format.  The function is intentionally
+minimal to keep the repository lightweight and to serve as
+an example for the "Print Your Age" exercise.
 
-def print_age() -> None:
-    """Prints the user's age to stdout."""
-    print(f"Your age is {AGE}")
+Example
+-------
+>>> from age import print_age
+>>> print_age(30)
+Age: 30
+"""
+
+def print_age(age: int) -> None:
+    """
+    Print the given age in a formatted string.
+
+    Parameters
+    ----------
+    age : int
+        The age to print.  It is expected to be a non‑negative integer.
+
+    Returns
+    -------
+    None
+        The function prints directly to standard output and returns
+        ``None``.
+    """
+    print(f"Age: {age}")
