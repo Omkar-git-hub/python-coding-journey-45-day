@@ -5,9 +5,10 @@
         "Print Your Name",
         "Print Your Age",
         "Print Your City",
-        "Create Integer Variable"
+        "Create Integer Variable",
+        "Create Float Variable"
     ],
-    "completed_commits": 20,
+    "completed_commits": 21,
     "last_commit": "",
-    "project_progress": 5
+    "project_progress": 6
 }
