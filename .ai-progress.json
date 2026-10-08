@@ -17,9 +17,10 @@
         "Convert Number to String",
         "Read User Name",
         "Read User Age",
-        "Read Two Numbers"
+        "Read Two Numbers",
+        "Add Two Numbers"
     ],
-    "completed_commits": 30,
+    "completed_commits": 31,
     "last_commit": "",
-    "project_progress": 17
+    "project_progress": 18
 }
