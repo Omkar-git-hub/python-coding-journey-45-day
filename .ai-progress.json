@@ -1,12 +1,32 @@
 {
-    "current_day": 1,
+    "current_day": 6,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
         "Print Your Age",
-        "Print Your City"
+        "Print Your City",
+        "Create Integer Variable",
+        "Create Float Variable",
+        "Create String Variable",
+        "Create Boolean Variable",
+        "Print Multiple Variables",
+        "Add Comments in Python",
+        "Check Variable Type",
+        "Convert String to Integer",
+        "Convert Integer to Float",
+        "Convert Number to String",
+        "Read User Name",
+        "Read User Age",
+        "Read Two Numbers",
+        "Add Two Numbers",
+        "Subtract Two Numbers",
+        "Multiply Two Numbers",
+        "Divide Two Numbers",
+        "Find Remainder",
+        "Find Quotient",
+        "Calculate Power"
     ],
-    "completed_commits": 0,
+    "completed_commits": 36,
     "last_commit": "",
-    "project_progress": 4
+    "project_progress": 24
 }

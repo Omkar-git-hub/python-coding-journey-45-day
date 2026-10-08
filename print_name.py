@@ -1,5 +1,13 @@
-"""Module to print the user's name."""
-
 def print_name():
-    """Prints the user's name."""
-    print("Your Name")
+    """
+    Reads a name from standard input and prints it.
+    """
+    try:
+        name = input()
+    except EOFError:
+        name = ""
+    print(name)
+
+
+if __name__ == "__main__":
+    print_name()

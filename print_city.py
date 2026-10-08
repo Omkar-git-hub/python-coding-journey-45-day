@@ -1,13 +1,5 @@
-"""Module to print the city name.
+"""Script that prints a city name.
 
-This module provides a simple function that prints the name of a city.
-The function is intentionally minimal to satisfy the unit tests that
-expect a specific city name to be printed to standard output.
-"""
-
-def print_city() -> None:
-    """Print the city name to standard output."""
-    print("London")
-
-if __name__ == "__main__":
-    print_city()
+When executed, the module prints the city in a simple format
+``City: <name>``.  The :func:`main` function encapsulates the
+behaviour so that
