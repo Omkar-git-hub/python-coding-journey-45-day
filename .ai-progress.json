@@ -13,9 +13,10 @@
         "Add Comments in Python",
         "Check Variable Type",
         "Convert String to Integer",
-        "Convert Integer to Float"
+        "Convert Integer to Float",
+        "Convert Number to String"
     ],
-    "completed_commits": 26,
+    "completed_commits": 27,
     "last_commit": "",
-    "project_progress": 13
+    "project_progress": 14
 }
