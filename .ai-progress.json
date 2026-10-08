@@ -18,9 +18,10 @@
         "Read User Name",
         "Read User Age",
         "Read Two Numbers",
-        "Add Two Numbers"
+        "Add Two Numbers",
+        "Subtract Two Numbers"
     ],
-    "completed_commits": 31,
+    "completed_commits": 32,
     "last_commit": "",
-    "project_progress": 18
+    "project_progress": 19
 }
