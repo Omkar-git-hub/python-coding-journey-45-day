@@ -21,9 +21,10 @@
         "Add Two Numbers",
         "Subtract Two Numbers",
         "Multiply Two Numbers",
-        "Divide Two Numbers"
+        "Divide Two Numbers",
+        "Find Remainder"
     ],
-    "completed_commits": 33,
+    "completed_commits": 34,
     "last_commit": "",
-    "project_progress": 21
+    "project_progress": 22
 }
