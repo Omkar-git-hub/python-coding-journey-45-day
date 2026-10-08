@@ -1,5 +1,5 @@
 {
-    "current_day": 3,
+    "current_day": 4,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -12,9 +12,10 @@
         "Print Multiple Variables",
         "Add Comments in Python",
         "Check Variable Type",
-        "Convert String to Integer"
+        "Convert String to Integer",
+        "Convert Integer to Float"
     ],
     "completed_commits": 26,
     "last_commit": "",
-    "project_progress": 12
+    "project_progress": 13
 }
