@@ -1,5 +1,5 @@
 {
-    "current_day": 4,
+    "current_day": 5,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -16,9 +16,10 @@
         "Convert Integer to Float",
         "Convert Number to String",
         "Read User Name",
-        "Read User Age"
+        "Read User Age",
+        "Read Two Numbers"
     ],
-    "completed_commits": 29,
+    "completed_commits": 30,
     "last_commit": "",
-    "project_progress": 16
+    "project_progress": 17
 }
