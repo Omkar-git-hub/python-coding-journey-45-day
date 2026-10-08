@@ -14,9 +14,10 @@
         "Check Variable Type",
         "Convert String to Integer",
         "Convert Integer to Float",
-        "Convert Number to String"
+        "Convert Number to String",
+        "Read User Name"
     ],
-    "completed_commits": 27,
+    "completed_commits": 28,
     "last_commit": "",
-    "project_progress": 14
+    "project_progress": 15
 }
