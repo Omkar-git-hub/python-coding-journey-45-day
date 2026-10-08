@@ -23,9 +23,10 @@
         "Multiply Two Numbers",
         "Divide Two Numbers",
         "Find Remainder",
-        "Find Quotient"
+        "Find Quotient",
+        "Calculate Power"
     ],
-    "completed_commits": 35,
+    "completed_commits": 36,
     "last_commit": "",
-    "project_progress": 23
+    "project_progress": 24
 }
