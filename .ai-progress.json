@@ -1,5 +1,5 @@
 {
-    "current_day": 6,
+    "current_day": 8,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -24,9 +24,17 @@
         "Divide Two Numbers",
         "Find Remainder",
         "Find Quotient",
-        "Calculate Power"
+        "Calculate Power",
+        "Calculate Square",
+        "Calculate Rectangle Area",
+        "Calculate Square Area",
+        "Calculate Circle Area",
+        "Check Even or Odd",
+        "Check Positive or Negative",
+        "Check Zero or Non-Zero",
+        "Check Divisible by 5"
     ],
-    "completed_commits": 36,
+    "completed_commits": 42,
     "last_commit": "",
-    "project_progress": 24
+    "project_progress": 32
 }
