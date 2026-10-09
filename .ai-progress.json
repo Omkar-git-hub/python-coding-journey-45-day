@@ -25,9 +25,10 @@
         "Find Remainder",
         "Find Quotient",
         "Calculate Power",
-        "Calculate Square"
+        "Calculate Square",
+        "Calculate Rectangle Area"
     ],
-    "completed_commits": 36,
+    "completed_commits": 37,
     "last_commit": "",
-    "project_progress": 25
+    "project_progress": 26
 }
