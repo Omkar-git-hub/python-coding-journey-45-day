@@ -27,9 +27,10 @@
         "Calculate Power",
         "Calculate Square",
         "Calculate Rectangle Area",
-        "Calculate Square Area"
+        "Calculate Square Area",
+        "Calculate Circle Area"
     ],
-    "completed_commits": 38,
+    "completed_commits": 39,
     "last_commit": "",
-    "project_progress": 27
+    "project_progress": 28
 }
