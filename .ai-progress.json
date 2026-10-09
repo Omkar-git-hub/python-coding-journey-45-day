@@ -30,9 +30,10 @@
         "Calculate Square Area",
         "Calculate Circle Area",
         "Check Even or Odd",
-        "Check Positive or Negative"
+        "Check Positive or Negative",
+        "Check Zero or Non-Zero"
     ],
-    "completed_commits": 40,
+    "completed_commits": 41,
     "last_commit": "",
-    "project_progress": 30
+    "project_progress": 31
 }
