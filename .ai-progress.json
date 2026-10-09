@@ -1,5 +1,5 @@
 {
-    "current_day": 7,
+    "current_day": 8,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -28,9 +28,10 @@
         "Calculate Square",
         "Calculate Rectangle Area",
         "Calculate Square Area",
-        "Calculate Circle Area"
+        "Calculate Circle Area",
+        "Check Even or Odd"
     ],
     "completed_commits": 39,
     "last_commit": "",
-    "project_progress": 28
+    "project_progress": 29
 }
