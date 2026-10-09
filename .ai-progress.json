@@ -1,5 +1,5 @@
 {
-    "current_day": 6,
+    "current_day": 7,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -24,9 +24,10 @@
         "Divide Two Numbers",
         "Find Remainder",
         "Find Quotient",
-        "Calculate Power"
+        "Calculate Power",
+        "Calculate Square"
     ],
     "completed_commits": 36,
     "last_commit": "",
-    "project_progress": 24
+    "project_progress": 25
 }
