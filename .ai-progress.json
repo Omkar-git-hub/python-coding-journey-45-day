@@ -26,9 +26,10 @@
         "Find Quotient",
         "Calculate Power",
         "Calculate Square",
-        "Calculate Rectangle Area"
+        "Calculate Rectangle Area",
+        "Calculate Square Area"
     ],
-    "completed_commits": 37,
+    "completed_commits": 38,
     "last_commit": "",
-    "project_progress": 26
+    "project_progress": 27
 }
