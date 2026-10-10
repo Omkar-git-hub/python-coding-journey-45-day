@@ -35,9 +35,10 @@
         "Check Divisible by 5",
         "Find Maximum of Two Numbers",
         "Find Minimum of Two Numbers",
-        "Find Largest of Three Numbers"
+        "Find Largest of Three Numbers",
+        "Find Smallest of Three Numbers"
     ],
-    "completed_commits": 44,
+    "completed_commits": 45,
     "last_commit": "",
-    "project_progress": 35
+    "project_progress": 36
 }
