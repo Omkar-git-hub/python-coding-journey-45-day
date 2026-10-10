@@ -33,9 +33,10 @@
         "Check Positive or Negative",
         "Check Zero or Non-Zero",
         "Check Divisible by 5",
-        "Find Maximum of Two Numbers"
+        "Find Maximum of Two Numbers",
+        "Find Minimum of Two Numbers"
     ],
-    "completed_commits": 42,
+    "completed_commits": 43,
     "last_commit": "",
-    "project_progress": 33
+    "project_progress": 34
 }
