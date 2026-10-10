@@ -1,5 +1,5 @@
 {
-    "current_day": 8,
+    "current_day": 9,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -32,9 +32,10 @@
         "Check Even or Odd",
         "Check Positive or Negative",
         "Check Zero or Non-Zero",
-        "Check Divisible by 5"
+        "Check Divisible by 5",
+        "Find Maximum of Two Numbers"
     ],
     "completed_commits": 42,
     "last_commit": "",
-    "project_progress": 32
+    "project_progress": 33
 }
