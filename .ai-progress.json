@@ -38,9 +38,10 @@
         "Find Largest of Three Numbers",
         "Find Smallest of Three Numbers",
         "Check Voting Eligibility",
-        "Check Adult or Minor"
+        "Check Adult or Minor",
+        "Check Pass or Fail"
     ],
-    "completed_commits": 46,
+    "completed_commits": 47,
     "last_commit": "",
-    "project_progress": 38
+    "project_progress": 39
 }
