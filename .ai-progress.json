@@ -39,9 +39,10 @@
         "Find Smallest of Three Numbers",
         "Check Voting Eligibility",
         "Check Adult or Minor",
-        "Check Pass or Fail"
+        "Check Pass or Fail",
+        "Check Leap Year"
     ],
-    "completed_commits": 47,
+    "completed_commits": 48,
     "last_commit": "",
-    "project_progress": 39
+    "project_progress": 40
 }
