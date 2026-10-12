@@ -41,9 +41,10 @@
         "Check Adult or Minor",
         "Check Pass or Fail",
         "Check Leap Year",
-        "Print Numbers From 1 to 10"
+        "Print Numbers From 1 to 10",
+        "Print Numbers From 10 to 1"
     ],
-    "completed_commits": 48,
+    "completed_commits": 49,
     "last_commit": "",
-    "project_progress": 41
+    "project_progress": 42
 }
