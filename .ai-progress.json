@@ -46,9 +46,10 @@
         "Print Even Numbers",
         "Print Odd Numbers",
         "Print Multiplication Table",
-        "Print Numbers in a Range"
+        "Print Numbers in a Range",
+        "Calculate Sum From 1 to N"
     ],
-    "completed_commits": 52,
+    "completed_commits": 53,
     "last_commit": "",
-    "project_progress": 46
+    "project_progress": 47
 }
