@@ -1,5 +1,5 @@
 {
-    "current_day": 10,
+    "current_day": 11,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -40,9 +40,13 @@
         "Check Voting Eligibility",
         "Check Adult or Minor",
         "Check Pass or Fail",
-        "Check Leap Year"
+        "Check Leap Year",
+        "Print Numbers From 1 to 10",
+        "Print Numbers From 10 to 1",
+        "Print Even Numbers",
+        "Print Odd Numbers"
     ],
-    "completed_commits": 48,
+    "completed_commits": 51,
     "last_commit": "",
-    "project_progress": 40
+    "project_progress": 44
 }
