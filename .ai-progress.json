@@ -1,5 +1,5 @@
 {
-    "current_day": 11,
+    "current_day": 12,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -44,9 +44,13 @@
         "Print Numbers From 1 to 10",
         "Print Numbers From 10 to 1",
         "Print Even Numbers",
-        "Print Odd Numbers"
+        "Print Odd Numbers",
+        "Print Multiplication Table",
+        "Print Numbers in a Range",
+        "Calculate Sum From 1 to N",
+        "Calculate Product From 1 to N"
     ],
-    "completed_commits": 51,
+    "completed_commits": 54,
     "last_commit": "",
-    "project_progress": 44
+    "project_progress": 48
 }
