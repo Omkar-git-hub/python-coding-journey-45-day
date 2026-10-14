@@ -49,9 +49,10 @@
         "Print Numbers in a Range",
         "Calculate Sum From 1 to N",
         "Calculate Product From 1 to N",
-        "Calculate Factorial"
+        "Calculate Factorial",
+        "Generate Fibonacci Series"
     ],
-    "completed_commits": 54,
+    "completed_commits": 55,
     "last_commit": "",
-    "project_progress": 49
+    "project_progress": 50
 }
