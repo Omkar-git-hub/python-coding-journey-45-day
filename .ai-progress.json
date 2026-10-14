@@ -50,9 +50,10 @@
         "Calculate Sum From 1 to N",
         "Calculate Product From 1 to N",
         "Calculate Factorial",
-        "Generate Fibonacci Series"
+        "Generate Fibonacci Series",
+        "Check Prime Number"
     ],
-    "completed_commits": 55,
+    "completed_commits": 56,
     "last_commit": "",
-    "project_progress": 50
+    "project_progress": 51
 }
