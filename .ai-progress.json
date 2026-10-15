@@ -54,9 +54,10 @@
         "Check Prime Number",
         "Count Digits",
         "Reverse a Number",
-        "Sum of Digits"
+        "Sum of Digits",
+        "Check Palindrome Number"
     ],
-    "completed_commits": 58,
+    "completed_commits": 59,
     "last_commit": "",
-    "project_progress": 54
+    "project_progress": 55
 }
