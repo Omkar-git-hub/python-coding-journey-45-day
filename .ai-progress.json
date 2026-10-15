@@ -1,5 +1,5 @@
 {
-    "current_day": 13,
+    "current_day": 14,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -52,9 +52,10 @@
         "Calculate Factorial",
         "Generate Fibonacci Series",
         "Check Prime Number",
-        "Count Digits"
+        "Count Digits",
+        "Reverse a Number"
     ],
     "completed_commits": 57,
     "last_commit": "",
-    "project_progress": 52
+    "project_progress": 53
 }
