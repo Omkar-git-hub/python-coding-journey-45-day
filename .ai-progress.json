@@ -53,9 +53,10 @@
         "Generate Fibonacci Series",
         "Check Prime Number",
         "Count Digits",
-        "Reverse a Number"
+        "Reverse a Number",
+        "Sum of Digits"
     ],
-    "completed_commits": 57,
+    "completed_commits": 58,
     "last_commit": "",
-    "project_progress": 53
+    "project_progress": 54
 }
