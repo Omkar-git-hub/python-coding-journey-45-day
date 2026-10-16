@@ -61,9 +61,10 @@
         "Print Triangle Pattern",
         "Print Inverted Triangle",
         "Print Number Pattern",
-        "Reverse a String"
+        "Reverse a String",
+        "Check Palindrome String"
     ],
-    "completed_commits": 67,
+    "completed_commits": 68,
     "last_commit": "",
-    "project_progress": 61
+    "project_progress": 62
 }
