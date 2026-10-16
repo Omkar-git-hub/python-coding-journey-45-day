@@ -57,9 +57,10 @@
         "Sum of Digits",
         "Check Palindrome Number",
         "Print Prime Numbers in a Range",
-        "Print Square Pattern"
+        "Print Square Pattern",
+        "Print Triangle Pattern"
     ],
-    "completed_commits": 64,
+    "completed_commits": 65,
     "last_commit": "",
-    "project_progress": 57
+    "project_progress": 58
 }
