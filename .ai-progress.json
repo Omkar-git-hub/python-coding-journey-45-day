@@ -1,5 +1,5 @@
 {
-    "current_day": 15,
+    "current_day": 16,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -60,9 +60,10 @@
         "Print Square Pattern",
         "Print Triangle Pattern",
         "Print Inverted Triangle",
-        "Print Number Pattern"
+        "Print Number Pattern",
+        "Reverse a String"
     ],
     "completed_commits": 67,
     "last_commit": "",
-    "project_progress": 60
+    "project_progress": 61
 }
