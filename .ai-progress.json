@@ -1,5 +1,5 @@
 {
-    "current_day": 14,
+    "current_day": 16,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -56,9 +56,17 @@
         "Reverse a Number",
         "Sum of Digits",
         "Check Palindrome Number",
-        "Print Prime Numbers in a Range"
+        "Print Prime Numbers in a Range",
+        "Print Square Pattern",
+        "Print Triangle Pattern",
+        "Print Inverted Triangle",
+        "Print Number Pattern",
+        "Reverse a String",
+        "Check Palindrome String",
+        "Count Characters",
+        "Count Vowels"
     ],
-    "completed_commits": 60,
+    "completed_commits": 70,
     "last_commit": "",
-    "project_progress": 56
+    "project_progress": 64
 }
