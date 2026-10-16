@@ -58,9 +58,10 @@
         "Check Palindrome Number",
         "Print Prime Numbers in a Range",
         "Print Square Pattern",
-        "Print Triangle Pattern"
+        "Print Triangle Pattern",
+        "Print Inverted Triangle"
     ],
-    "completed_commits": 65,
+    "completed_commits": 66,
     "last_commit": "",
-    "project_progress": 58
+    "project_progress": 59
 }
