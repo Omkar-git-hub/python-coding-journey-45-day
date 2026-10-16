@@ -63,9 +63,10 @@
         "Print Number Pattern",
         "Reverse a String",
         "Check Palindrome String",
-        "Count Characters"
+        "Count Characters",
+        "Count Vowels"
     ],
-    "completed_commits": 69,
+    "completed_commits": 70,
     "last_commit": "",
-    "project_progress": 63
+    "project_progress": 64
 }
