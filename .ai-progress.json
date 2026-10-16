@@ -59,9 +59,10 @@
         "Print Prime Numbers in a Range",
         "Print Square Pattern",
         "Print Triangle Pattern",
-        "Print Inverted Triangle"
+        "Print Inverted Triangle",
+        "Print Number Pattern"
     ],
-    "completed_commits": 66,
+    "completed_commits": 67,
     "last_commit": "",
-    "project_progress": 59
+    "project_progress": 60
 }
