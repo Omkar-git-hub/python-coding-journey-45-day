@@ -66,9 +66,10 @@
         "Count Characters",
         "Count Vowels",
         "Count Consonants",
-        "Count Words"
+        "Count Words",
+        "Convert to Uppercase"
     ],
-    "completed_commits": 71,
+    "completed_commits": 72,
     "last_commit": "",
-    "project_progress": 66
+    "project_progress": 67
 }
