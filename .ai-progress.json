@@ -65,9 +65,10 @@
         "Check Palindrome String",
         "Count Characters",
         "Count Vowels",
-        "Count Consonants"
+        "Count Consonants",
+        "Count Words"
     ],
-    "completed_commits": 70,
+    "completed_commits": 71,
     "last_commit": "",
-    "project_progress": 65
+    "project_progress": 66
 }
