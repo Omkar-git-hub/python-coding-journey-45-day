@@ -71,9 +71,10 @@
         "Convert to Lowercase",
         "Remove Spaces From String",
         "Replace a Character",
-        "Find String Length"
+        "Find String Length",
+        "Compare Two Strings"
     ],
-    "completed_commits": 75,
+    "completed_commits": 76,
     "last_commit": "",
-    "project_progress": 71
+    "project_progress": 72
 }
