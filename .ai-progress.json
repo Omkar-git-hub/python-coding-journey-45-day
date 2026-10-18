@@ -70,9 +70,10 @@
         "Convert to Uppercase",
         "Convert to Lowercase",
         "Remove Spaces From String",
-        "Replace a Character"
+        "Replace a Character",
+        "Find String Length"
     ],
-    "completed_commits": 74,
+    "completed_commits": 75,
     "last_commit": "",
-    "project_progress": 70
+    "project_progress": 71
 }
