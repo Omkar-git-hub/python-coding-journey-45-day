@@ -1,5 +1,5 @@
 {
-    "current_day": 17,
+    "current_day": 18,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -68,9 +68,13 @@
         "Count Consonants",
         "Count Words",
         "Convert to Uppercase",
-        "Convert to Lowercase"
+        "Convert to Lowercase",
+        "Remove Spaces From String",
+        "Replace a Character",
+        "Find String Length",
+        "Compare Two Strings"
     ],
-    "completed_commits": 73,
+    "completed_commits": 76,
     "last_commit": "",
-    "project_progress": 68
+    "project_progress": 72
 }
