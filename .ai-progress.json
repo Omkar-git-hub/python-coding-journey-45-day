@@ -69,9 +69,10 @@
         "Count Words",
         "Convert to Uppercase",
         "Convert to Lowercase",
-        "Remove Spaces From String"
+        "Remove Spaces From String",
+        "Replace a Character"
     ],
-    "completed_commits": 73,
+    "completed_commits": 74,
     "last_commit": "",
-    "project_progress": 69
+    "project_progress": 70
 }
