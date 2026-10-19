@@ -1,5 +1,5 @@
 {
-    "current_day": 18,
+    "current_day": 19,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -72,9 +72,10 @@
         "Remove Spaces From String",
         "Replace a Character",
         "Find String Length",
-        "Compare Two Strings"
+        "Compare Two Strings",
+        "Find First Character"
     ],
     "completed_commits": 76,
     "last_commit": "",
-    "project_progress": 72
+    "project_progress": 73
 }
