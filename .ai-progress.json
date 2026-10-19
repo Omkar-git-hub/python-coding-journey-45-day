@@ -73,9 +73,10 @@
         "Replace a Character",
         "Find String Length",
         "Compare Two Strings",
-        "Find First Character"
+        "Find First Character",
+        "Find Last Character"
     ],
-    "completed_commits": 76,
+    "completed_commits": 77,
     "last_commit": "",
-    "project_progress": 73
+    "project_progress": 74
 }
