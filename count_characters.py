@@ -1,32 +1,54 @@
 """
 count_characters.py
 
-Provides a simple utility to count the number of characters in a string.
+This module provides a utility function to count the occurrences of each character in a given string.
+The function returns a dictionary where keys are characters and values are the number of times
+each character appears in the input string.
+
+The implementation is straightforward and works for any string, including those containing
+Unicode characters. It does not ignore whitespace or punctuation unless explicitly filtered
+by the caller.
+
+Example usage:
+>>> count_characters("hello world")
+{'h': 1, 'e': 1, 'l': 3, 'o': 2, ' ': 1, 'w': 1, 'r': 1, 'd': 1}
 """
 
-def count_characters(s: str) -> int:
+from collections import Counter
+from typing import Dict
+
+
+def count_characters(text: str) -> Dict[str, int]:
     """
-    Return the number of characters in the given string.
+    Count the occurrences of each character in the provided string.
 
     Parameters
     ----------
-    s : str
-        The string whose characters are to be counted.
+    text : str
+        The string to analyze.
 
     Returns
     -------
-    int
-        The total number of characters in the string.
-    """
-    if not isinstance(s, str):
-        raise TypeError("Input must be a string")
-    return len(s)
+    Dict[str, int]
+        A dictionary mapping each character to its count in the string.
+        If the input string is empty, an empty dictionary is returned.
 
+    Notes
+    -----
+    - The function is case-sensitive; 'A' and 'a' are considered distinct.
+    - All characters, including whitespace and punctuation, are counted.
+    """
+    if not text:
+        return {}
+
+    # Using Counter for efficient counting
+    return dict(Counter(text))
+
+
+# If this module is executed as a script, demonstrate the function with a simple example.
 if __name__ == "__main__":
-    # Simple demonstration when run as a script
-    import sys
-    if len(sys.argv) > 1:
-        input_str = " ".join(sys.argv[1:])
-        print(f"Number of characters in '{input_str}': {count_characters(input_str)}")
-    else:
-        print("Usage: python count_characters.py <string>")
+    sample = "Hello, World!"
+    print(f"Input string: {sample!r}")
+    print("Character counts:")
+    for char, count in sorted(count_characters(sample).items()):
+        print(f"  {char!r}: {count}")
