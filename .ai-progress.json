@@ -75,9 +75,10 @@
         "Compare Two Strings",
         "Find First Character",
         "Find Last Character",
-        "Count Character Occurrences"
+        "Count Character Occurrences",
+        "Remove Duplicate Characters"
     ],
-    "completed_commits": 78,
+    "completed_commits": 79,
     "last_commit": "",
-    "project_progress": 75
+    "project_progress": 76
 }
