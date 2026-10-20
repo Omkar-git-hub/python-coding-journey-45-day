@@ -79,9 +79,10 @@
         "Remove Duplicate Characters",
         "Create a List",
         "Access List Elements",
-        "Add Element to List"
+        "Add Element to List",
+        "Remove Element From List"
     ],
-    "completed_commits": 81,
+    "completed_commits": 82,
     "last_commit": "",
-    "project_progress": 79
+    "project_progress": 80
 }
