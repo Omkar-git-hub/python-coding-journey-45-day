@@ -1,5 +1,5 @@
 {
-    "current_day": 19,
+    "current_day": 20,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -76,9 +76,13 @@
         "Find First Character",
         "Find Last Character",
         "Count Character Occurrences",
-        "Remove Duplicate Characters"
+        "Remove Duplicate Characters",
+        "Create a List",
+        "Access List Elements",
+        "Add Element to List",
+        "Remove Element From List"
     ],
-    "completed_commits": 79,
+    "completed_commits": 82,
     "last_commit": "",
-    "project_progress": 76
+    "project_progress": 80
 }
