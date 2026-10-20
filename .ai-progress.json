@@ -77,9 +77,10 @@
         "Find Last Character",
         "Count Character Occurrences",
         "Remove Duplicate Characters",
-        "Create a List"
+        "Create a List",
+        "Access List Elements"
     ],
-    "completed_commits": 79,
+    "completed_commits": 80,
     "last_commit": "",
-    "project_progress": 77
+    "project_progress": 78
 }
