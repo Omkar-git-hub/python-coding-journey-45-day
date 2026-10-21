@@ -1,5 +1,5 @@
 {
-    "current_day": 20,
+    "current_day": 21,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -80,9 +80,10 @@
         "Create a List",
         "Access List Elements",
         "Add Element to List",
-        "Remove Element From List"
+        "Remove Element From List",
+        "Update List Element"
     ],
     "completed_commits": 82,
     "last_commit": "",
-    "project_progress": 80
+    "project_progress": 81
 }
