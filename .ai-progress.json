@@ -83,9 +83,10 @@
         "Remove Element From List",
         "Update List Element",
         "Find List Length",
-        "Find Largest Element in a List"
+        "Find Largest Element in a List",
+        "Find Smallest Element in a List"
     ],
-    "completed_commits": 84,
+    "completed_commits": 85,
     "last_commit": "",
-    "project_progress": 83
+    "project_progress": 84
 }
