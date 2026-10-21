@@ -81,9 +81,10 @@
         "Access List Elements",
         "Add Element to List",
         "Remove Element From List",
-        "Update List Element"
+        "Update List Element",
+        "Find List Length"
     ],
-    "completed_commits": 82,
+    "completed_commits": 83,
     "last_commit": "",
-    "project_progress": 81
+    "project_progress": 82
 }
