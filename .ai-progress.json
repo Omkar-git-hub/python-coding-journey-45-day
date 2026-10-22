@@ -87,9 +87,10 @@
         "Find Smallest Element in a List",
         "Sum List Elements",
         "Calculate List Average",
-        "Count Even Numbers in a List"
+        "Count Even Numbers in a List",
+        "Count Odd Numbers in a List"
     ],
-    "completed_commits": 87,
+    "completed_commits": 88,
     "last_commit": "",
-    "project_progress": 87
+    "project_progress": 88
 }
