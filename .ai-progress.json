@@ -85,9 +85,10 @@
         "Find List Length",
         "Find Largest Element in a List",
         "Find Smallest Element in a List",
-        "Sum List Elements"
+        "Sum List Elements",
+        "Calculate List Average"
     ],
-    "completed_commits": 85,
+    "completed_commits": 86,
     "last_commit": "",
-    "project_progress": 85
+    "project_progress": 86
 }
