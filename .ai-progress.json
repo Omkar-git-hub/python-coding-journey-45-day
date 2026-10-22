@@ -1,5 +1,5 @@
 {
-    "current_day": 21,
+    "current_day": 22,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -84,9 +84,10 @@
         "Update List Element",
         "Find List Length",
         "Find Largest Element in a List",
-        "Find Smallest Element in a List"
+        "Find Smallest Element in a List",
+        "Sum List Elements"
     ],
     "completed_commits": 85,
     "last_commit": "",
-    "project_progress": 84
+    "project_progress": 85
 }
