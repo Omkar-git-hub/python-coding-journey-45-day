@@ -90,9 +90,10 @@
         "Count Even Numbers in a List",
         "Count Odd Numbers in a List",
         "Reverse a List",
-        "Sort a List"
+        "Sort a List",
+        "Find Second Largest Number"
     ],
-    "completed_commits": 89,
+    "completed_commits": 90,
     "last_commit": "",
-    "project_progress": 90
+    "project_progress": 91
 }
