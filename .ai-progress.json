@@ -91,9 +91,10 @@
         "Count Odd Numbers in a List",
         "Reverse a List",
         "Sort a List",
-        "Find Second Largest Number"
+        "Find Second Largest Number",
+        "Remove Duplicate Elements"
     ],
-    "completed_commits": 90,
+    "completed_commits": 91,
     "last_commit": "",
-    "project_progress": 91
+    "project_progress": 92
 }
