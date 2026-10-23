@@ -89,9 +89,10 @@
         "Calculate List Average",
         "Count Even Numbers in a List",
         "Count Odd Numbers in a List",
-        "Reverse a List"
+        "Reverse a List",
+        "Sort a List"
     ],
-    "completed_commits": 88,
+    "completed_commits": 89,
     "last_commit": "",
-    "project_progress": 89
+    "project_progress": 90
 }
