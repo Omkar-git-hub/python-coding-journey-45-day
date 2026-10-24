@@ -95,9 +95,10 @@
         "Remove Duplicate Elements",
         "Find Common List Elements",
         "Merge Two Lists",
-        "Find Missing Number"
+        "Find Missing Number",
+        "Find Element Frequency"
     ],
-    "completed_commits": 93,
+    "completed_commits": 94,
     "last_commit": "",
-    "project_progress": 95
+    "project_progress": 96
 }
