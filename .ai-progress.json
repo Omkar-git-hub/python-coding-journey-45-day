@@ -94,9 +94,10 @@
         "Find Second Largest Number",
         "Remove Duplicate Elements",
         "Find Common List Elements",
-        "Merge Two Lists"
+        "Merge Two Lists",
+        "Find Missing Number"
     ],
-    "completed_commits": 92,
+    "completed_commits": 93,
     "last_commit": "",
-    "project_progress": 94
+    "project_progress": 95
 }
