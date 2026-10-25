@@ -1,5 +1,5 @@
 {
-    "current_day": 24,
+    "current_day": 25,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -96,9 +96,10 @@
         "Find Common List Elements",
         "Merge Two Lists",
         "Find Missing Number",
-        "Find Element Frequency"
+        "Find Element Frequency",
+        "Create a Tuple"
     ],
     "completed_commits": 94,
     "last_commit": "",
-    "project_progress": 96
+    "project_progress": 97
 }
