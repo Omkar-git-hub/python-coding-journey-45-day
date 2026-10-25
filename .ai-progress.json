@@ -97,9 +97,10 @@
         "Merge Two Lists",
         "Find Missing Number",
         "Find Element Frequency",
-        "Create a Tuple"
+        "Create a Tuple",
+        "Access Tuple Elements"
     ],
-    "completed_commits": 94,
+    "completed_commits": 95,
     "last_commit": "",
-    "project_progress": 97
+    "project_progress": 98
 }
