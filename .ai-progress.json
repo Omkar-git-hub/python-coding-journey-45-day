@@ -1,5 +1,5 @@
 {
-    "current_day": 25,
+    "current_day": 26,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -100,9 +100,10 @@
         "Create a Tuple",
         "Access Tuple Elements",
         "Find Tuple Length",
-        "Convert Tuple to List"
+        "Convert Tuple to List",
+        "Create a Set"
     ],
     "completed_commits": 97,
     "last_commit": "",
-    "project_progress": 100
+    "project_progress": 101
 }
