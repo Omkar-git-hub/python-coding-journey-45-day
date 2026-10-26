@@ -103,9 +103,10 @@
         "Convert Tuple to List",
         "Create a Set",
         "Add Element to Set",
-        "Remove Element From Set"
+        "Remove Element From Set",
+        "Remove Duplicates Using Set"
     ],
-    "completed_commits": 99,
+    "completed_commits": 100,
     "last_commit": "",
-    "project_progress": 103
+    "project_progress": 104
 }
