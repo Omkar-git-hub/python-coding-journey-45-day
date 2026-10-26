@@ -1,40 +1,32 @@
-def remove_duplicate_elements(lst):
+def remove_duplicate_elements(input_list):
     """
-    Remove duplicate elements from a list while preserving the original order.
+    Remove duplicate elements from the given list using a set.
 
     Parameters
     ----------
-    lst : list
-        The list from which duplicates should be removed.
+    input_list : list
+        The list from which duplicate elements should be removed.
 
     Returns
     -------
     list
-        A new list containing the elements of ``lst`` without duplicates,
-        preserving their first occurrence order.
+        A new list containing the unique elements from ``input_list``.
+        The order of elements is not guaranteed because a set is used.
     """
-    seen = set()
-    result = []
-    for item in lst:
-        if item not in seen:
-            seen.add(item)
-            result.append(item)
-    return result
+    # Convert the list to a set to eliminate duplicates, then back to a list.
+    return list(set(input_list))
 
 
 if __name__ == "__main__":
-    # Simple interactive demo:
-    # Input a space‑separated list of values (e.g., "1 2 3 2 4").
+    # Simple interactive demonstration
     try:
-        raw_input = input("Enter list elements separated by spaces: ").strip()
-        # Attempt to convert to integers; fall back to strings if conversion fails.
-        elements = []
-        for token in raw_input.split():
-            try:
-                elements.append(int(token))
-            except ValueError:
-                elements.append(token)
-        print(remove_duplicate_elements(elements))
-    except EOFError:
-        # No input provided; do nothing.
-        pass
+        raw_input = input("Enter list elements separated by spaces: ")
+        # Attempt to interpret numbers; otherwise keep as strings
+        elements = [
+            int(item) if item.lstrip("-").isdigit() else item
+            for item in raw_input.split()
+        ]
+        result = remove_duplicate_elements(elements)
+        print("List after removing duplicates:", result)
+    except Exception as e:
+        print(f"Error: {e}")
