@@ -102,9 +102,10 @@
         "Find Tuple Length",
         "Convert Tuple to List",
         "Create a Set",
-        "Add Element to Set"
+        "Add Element to Set",
+        "Remove Element From Set"
     ],
-    "completed_commits": 98,
+    "completed_commits": 99,
     "last_commit": "",
-    "project_progress": 102
+    "project_progress": 103
 }
