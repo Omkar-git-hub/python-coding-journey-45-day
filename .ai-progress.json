@@ -101,9 +101,10 @@
         "Access Tuple Elements",
         "Find Tuple Length",
         "Convert Tuple to List",
-        "Create a Set"
+        "Create a Set",
+        "Add Element to Set"
     ],
-    "completed_commits": 97,
+    "completed_commits": 98,
     "last_commit": "",
-    "project_progress": 101
+    "project_progress": 102
 }
