@@ -105,9 +105,10 @@
         "Add Element to Set",
         "Remove Element From Set",
         "Remove Duplicates Using Set",
-        "Find Set Union"
+        "Find Set Union",
+        "Find Set Intersection"
     ],
-    "completed_commits": 100,
+    "completed_commits": 101,
     "last_commit": "",
-    "project_progress": 105
+    "project_progress": 106
 }
