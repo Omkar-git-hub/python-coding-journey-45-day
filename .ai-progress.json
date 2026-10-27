@@ -107,9 +107,10 @@
         "Remove Duplicates Using Set",
         "Find Set Union",
         "Find Set Intersection",
-        "Find Set Difference"
+        "Find Set Difference",
+        "Find Symmetric Difference"
     ],
-    "completed_commits": 102,
+    "completed_commits": 103,
     "last_commit": "",
-    "project_progress": 107
+    "project_progress": 108
 }
