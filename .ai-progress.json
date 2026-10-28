@@ -110,9 +110,10 @@
         "Find Set Difference",
         "Find Symmetric Difference",
         "Create a Dictionary",
-        "Access Dictionary Value"
+        "Access Dictionary Value",
+        "Add Dictionary Key"
     ],
-    "completed_commits": 104,
+    "completed_commits": 105,
     "last_commit": "",
-    "project_progress": 110
+    "project_progress": 111
 }
