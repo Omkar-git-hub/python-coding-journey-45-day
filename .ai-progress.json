@@ -1,5 +1,5 @@
 {
-    "current_day": 27,
+    "current_day": 28,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -108,9 +108,10 @@
         "Find Set Union",
         "Find Set Intersection",
         "Find Set Difference",
-        "Find Symmetric Difference"
+        "Find Symmetric Difference",
+        "Create a Dictionary"
     ],
     "completed_commits": 103,
     "last_commit": "",
-    "project_progress": 108
+    "project_progress": 109
 }
