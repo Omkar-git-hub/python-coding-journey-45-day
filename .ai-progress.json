@@ -109,9 +109,10 @@
         "Find Set Intersection",
         "Find Set Difference",
         "Find Symmetric Difference",
-        "Create a Dictionary"
+        "Create a Dictionary",
+        "Access Dictionary Value"
     ],
-    "completed_commits": 103,
+    "completed_commits": 104,
     "last_commit": "",
-    "project_progress": 109
+    "project_progress": 110
 }
