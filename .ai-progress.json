@@ -115,9 +115,10 @@
         "Update Dictionary Value",
         "Remove Dictionary Key",
         "Check Dictionary Key",
-        "Print Dictionary Keys"
+        "Print Dictionary Keys",
+        "Print Dictionary Values"
     ],
-    "completed_commits": 108,
+    "completed_commits": 109,
     "last_commit": "",
-    "project_progress": 115
+    "project_progress": 116
 }
