@@ -117,9 +117,10 @@
         "Check Dictionary Key",
         "Print Dictionary Keys",
         "Print Dictionary Values",
-        "Count Character Frequency"
+        "Count Character Frequency",
+        "Count Word Frequency"
     ],
-    "completed_commits": 109,
+    "completed_commits": 110,
     "last_commit": "",
-    "project_progress": 117
+    "project_progress": 118
 }
