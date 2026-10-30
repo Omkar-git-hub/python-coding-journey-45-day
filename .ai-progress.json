@@ -119,9 +119,10 @@
         "Print Dictionary Values",
         "Count Character Frequency",
         "Count Word Frequency",
-        "Find Most Frequent Character"
+        "Find Most Frequent Character",
+        "Find Most Frequent Word"
     ],
-    "completed_commits": 111,
+    "completed_commits": 112,
     "last_commit": "",
-    "project_progress": 119
+    "project_progress": 120
 }
