@@ -1,5 +1,5 @@
 {
-    "current_day": 28,
+    "current_day": 30,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -112,9 +112,17 @@
         "Create a Dictionary",
         "Access Dictionary Value",
         "Add Dictionary Key",
-        "Update Dictionary Value"
+        "Update Dictionary Value",
+        "Remove Dictionary Key",
+        "Check Dictionary Key",
+        "Print Dictionary Keys",
+        "Print Dictionary Values",
+        "Count Character Frequency",
+        "Count Word Frequency",
+        "Find Most Frequent Character",
+        "Find Most Frequent Word"
     ],
-    "completed_commits": 106,
+    "completed_commits": 112,
     "last_commit": "",
-    "project_progress": 112
+    "project_progress": 120
 }
