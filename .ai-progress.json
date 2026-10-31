@@ -1,5 +1,5 @@
 {
-    "current_day": 30,
+    "current_day": 31,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -120,9 +120,13 @@
         "Count Character Frequency",
         "Count Word Frequency",
         "Find Most Frequent Character",
-        "Find Most Frequent Word"
+        "Find Most Frequent Word",
+        "Create a Basic Function",
+        "Function With Parameters",
+        "Function With Return Value",
+        "Function With Multiple Parameters"
     ],
-    "completed_commits": 112,
+    "completed_commits": 115,
     "last_commit": "",
-    "project_progress": 120
+    "project_progress": 124
 }
