@@ -121,9 +121,10 @@
         "Count Word Frequency",
         "Find Most Frequent Character",
         "Find Most Frequent Word",
-        "Create a Basic Function"
+        "Create a Basic Function",
+        "Function With Parameters"
     ],
-    "completed_commits": 112,
+    "completed_commits": 113,
     "last_commit": "",
-    "project_progress": 121
+    "project_progress": 122
 }
