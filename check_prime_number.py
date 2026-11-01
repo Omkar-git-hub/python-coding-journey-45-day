@@ -1,18 +1,23 @@
-def check_prime_number(n):
-    if n < 2:
+def is_prime(n):
+    if n <= 1:
         return False
-    if n == 2:
+    if n <= 3:
         return True
-    if n % 2 == 0:
+    if n % 2 == 0 or n % 3 == 0:
         return False
-    for i in range(3, int(n**0.5) + 1, 2):
-        if n % i == 0:
+    i = 5
+    while i * i <= n:
+        if n % i == 0 or n % (i + 2) == 0:
             return False
+        i += 6
     return True
 
-if __name__ == "__main__":
+def check_prime_number():
     number = int(input("Enter a number: "))
-    if check_prime_number(number):
+    if is_prime(number):
         print(f"{number} is a prime number.")
     else:
         print(f"{number} is not a prime number.")
+
+if __name__ == "__main__":
+    check_prime_number()
