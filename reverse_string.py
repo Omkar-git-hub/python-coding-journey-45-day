@@ -1,6 +1,6 @@
 def reverse_string(s: str) -> str:
     """
-    Return the reversed version of the input string.
+    Return the reverse of the input string.
 
     Parameters
     ----------
@@ -16,9 +16,5 @@ def reverse_string(s: str) -> str:
 
 
 if __name__ == "__main__":
-    # Simple command‑line usage: read a line from stdin and print its reverse.
-    try:
-        input_str = input()
-    except EOFError:
-        input_str = ""
-    print(reverse_string(input_str))
+    user_input = input("Enter a string to reverse: ")
+    print(reverse_string(user_input))

@@ -126,9 +126,10 @@
         "Function With Return Value",
         "Function With Multiple Parameters",
         "Factorial Using Function",
-        "Prime Check Using Function"
+        "Prime Check Using Function",
+        "Reverse String Using Function"
     ],
-    "completed_commits": 116,
+    "completed_commits": 117,
     "last_commit": "",
-    "project_progress": 126
+    "project_progress": 127
 }
