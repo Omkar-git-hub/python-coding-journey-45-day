@@ -1,30 +1,31 @@
 def calculate_factorial(n: int) -> int:
     """
-    Calculate the factorial of a non-negative integer n.
+    Calculate the factorial of a non‑negative integer.
 
-    Parameters
-    ----------
-    n : int
-        The number to calculate the factorial for. Must be a non-negative integer.
+    Args:
+        n (int): The number to calculate the factorial for. Must be >= 0.
 
-    Returns
-    -------
-    int
-        The factorial of n.
+    Returns:
+        int: The factorial of ``n``.
 
-    Raises
-    ------
-    TypeError
-        If n is not an integer.
-    ValueError
-        If n is negative.
+    Raises:
+        ValueError: If ``n`` is negative.
     """
-    if not isinstance(n, int):
-        raise TypeError("n must be an integer")
     if n < 0:
-        raise ValueError("n must be non-negative")
-
+        raise ValueError("Factorial is not defined for negative numbers")
     result = 1
     for i in range(2, n + 1):
         result *= i
     return result
+
+if __name__ == "__main__":
+    # Simple manual test when run directly
+    import sys
+
+    try:
+        number = int(sys.argv[1]) if len(sys.argv) > 1 else 5
+    except ValueError:
+        print("Please provide a valid integer.")
+        sys.exit(1)
+
+    print(f"Factorial of {number} is {calculate_factorial(number)}")

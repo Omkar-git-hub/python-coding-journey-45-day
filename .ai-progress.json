@@ -1,5 +1,5 @@
 {
-    "current_day": 31,
+    "current_day": 32,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -124,9 +124,10 @@
         "Create a Basic Function",
         "Function With Parameters",
         "Function With Return Value",
-        "Function With Multiple Parameters"
+        "Function With Multiple Parameters",
+        "Factorial Using Function"
     ],
     "completed_commits": 115,
     "last_commit": "",
-    "project_progress": 124
+    "project_progress": 125
 }
