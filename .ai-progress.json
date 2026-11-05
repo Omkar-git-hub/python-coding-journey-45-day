@@ -1,5 +1,5 @@
 {
-    "current_day": 32,
+    "current_day": 33,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -128,9 +128,10 @@
         "Factorial Using Function",
         "Prime Check Using Function",
         "Reverse String Using Function",
-        "Calculator Using Functions"
+        "Calculator Using Functions",
+        "Check Number is Greater Than 10"
     ],
     "completed_commits": 118,
     "last_commit": "",
-    "project_progress": 128
+    "project_progress": 129
 }
