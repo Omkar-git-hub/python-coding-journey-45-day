@@ -130,9 +130,10 @@
         "Reverse String Using Function",
         "Calculator Using Functions",
         "Check Number is Greater Than 10",
-        "Check Number is Less Than 100"
+        "Check Number is Less Than 100",
+        "Find Absolute Value"
     ],
-    "completed_commits": 119,
+    "completed_commits": 120,
     "last_commit": "",
-    "project_progress": 130
+    "project_progress": 131
 }
