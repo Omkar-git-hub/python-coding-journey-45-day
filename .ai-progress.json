@@ -129,9 +129,10 @@
         "Prime Check Using Function",
         "Reverse String Using Function",
         "Calculator Using Functions",
-        "Check Number is Greater Than 10"
+        "Check Number is Greater Than 10",
+        "Check Number is Less Than 100"
     ],
-    "completed_commits": 118,
+    "completed_commits": 119,
     "last_commit": "",
-    "project_progress": 129
+    "project_progress": 130
 }
