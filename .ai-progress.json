@@ -1,5 +1,5 @@
 {
-    "current_day": 31,
+    "current_day": 34,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -124,9 +124,22 @@
         "Create a Basic Function",
         "Function With Parameters",
         "Function With Return Value",
-        "Function With Multiple Parameters"
+        "Function With Multiple Parameters",
+        "Factorial Using Function",
+        "Prime Check Using Function",
+        "Reverse String Using Function",
+        "Calculator Using Functions",
+        "Check Number is Greater Than 10",
+        "Check Number is Less Than 100",
+        "Find Absolute Value",
+        "Round a Number",
+        "Swap Two Variables",
+        "Find ASCII Value",
+        "Calculate Simple Interest",
+        "Calculate Compound Interest",
+        "Convert Celsius to Fahrenheit"
     ],
-    "completed_commits": 115,
+    "completed_commits": 125,
     "last_commit": "",
-    "project_progress": 124
+    "project_progress": 137
 }
