@@ -136,9 +136,10 @@
         "Swap Two Variables",
         "Find ASCII Value",
         "Calculate Simple Interest",
-        "Calculate Compound Interest"
+        "Calculate Compound Interest",
+        "Convert Celsius to Fahrenheit"
     ],
-    "completed_commits": 124,
+    "completed_commits": 125,
     "last_commit": "",
-    "project_progress": 136
+    "project_progress": 137
 }
