@@ -138,9 +138,10 @@
         "Calculate Simple Interest",
         "Calculate Compound Interest",
         "Convert Celsius to Fahrenheit",
-        "Convert Fahrenheit to Celsius"
+        "Convert Fahrenheit to Celsius",
+        "Convert Kilometers to Meters"
     ],
-    "completed_commits": 125,
+    "completed_commits": 126,
     "last_commit": "",
-    "project_progress": 138
+    "project_progress": 139
 }
