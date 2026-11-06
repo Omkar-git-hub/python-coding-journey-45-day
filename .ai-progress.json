@@ -1,5 +1,5 @@
 {
-    "current_day": 34,
+    "current_day": 35,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -137,9 +137,10 @@
         "Find ASCII Value",
         "Calculate Simple Interest",
         "Calculate Compound Interest",
-        "Convert Celsius to Fahrenheit"
+        "Convert Celsius to Fahrenheit",
+        "Convert Fahrenheit to Celsius"
     ],
     "completed_commits": 125,
     "last_commit": "",
-    "project_progress": 137
+    "project_progress": 138
 }
