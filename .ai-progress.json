@@ -1,5 +1,5 @@
 {
-    "current_day": 33,
+    "current_day": 34,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -132,9 +132,10 @@
         "Check Number is Greater Than 10",
         "Check Number is Less Than 100",
         "Find Absolute Value",
-        "Round a Number"
+        "Round a Number",
+        "Swap Two Variables"
     ],
     "completed_commits": 121,
     "last_commit": "",
-    "project_progress": 132
+    "project_progress": 133
 }
