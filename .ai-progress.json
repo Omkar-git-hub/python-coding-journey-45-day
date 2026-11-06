@@ -133,9 +133,10 @@
         "Check Number is Less Than 100",
         "Find Absolute Value",
         "Round a Number",
-        "Swap Two Variables"
+        "Swap Two Variables",
+        "Find ASCII Value"
     ],
-    "completed_commits": 121,
+    "completed_commits": 122,
     "last_commit": "",
-    "project_progress": 133
+    "project_progress": 134
 }
