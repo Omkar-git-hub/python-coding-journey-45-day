@@ -134,9 +134,10 @@
         "Find Absolute Value",
         "Round a Number",
         "Swap Two Variables",
-        "Find ASCII Value"
+        "Find ASCII Value",
+        "Calculate Simple Interest"
     ],
-    "completed_commits": 122,
+    "completed_commits": 123,
     "last_commit": "",
-    "project_progress": 134
+    "project_progress": 135
 }
