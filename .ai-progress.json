@@ -145,9 +145,10 @@
         "Find String Index",
         "Check String Starts With",
         "Check String Ends With",
-        "Find Substring"
+        "Find Substring",
+        "Remove Punctuation"
     ],
-    "completed_commits": 131,
+    "completed_commits": 132,
     "last_commit": "",
-    "project_progress": 145
+    "project_progress": 146
 }
