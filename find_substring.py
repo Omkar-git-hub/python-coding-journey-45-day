@@ -1,0 +1,23 @@
+def find_substring(main_string, sub_string):
+    """
+    Find the index of a substring within a main string.
+    
+    Args:
+        main_string (str): The string to search in.
+        sub_string (str): The substring to search for.
+        
+    Returns:
+        int: The index of the first occurrence of the substring, or -1 if not found.
+    """
+    return main_string.find(sub_string)
+
+if __name__ == "__main__":
+    # Example usage
+    text = "Hello, World!"
+    search_term = "World"
+    index = find_substring(text, search_term)
+    
+    if index != -1:
+        print(f"'{search_term}' found at index {index}")
+    else:
+        print(f"'{search_term}' not found in the string")
