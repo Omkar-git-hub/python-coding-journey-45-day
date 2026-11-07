@@ -143,9 +143,10 @@
         "Convert Meters to Kilometers",
         "Convert Hours to Minutes",
         "Find String Index",
-        "Check String Starts With"
+        "Check String Starts With",
+        "Check String Ends With"
     ],
-    "completed_commits": 129,
+    "completed_commits": 130,
     "last_commit": "",
-    "project_progress": 143
+    "project_progress": 144
 }
