@@ -1,5 +1,5 @@
 {
-    "current_day": 35,
+    "current_day": 36,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -141,9 +141,10 @@
         "Convert Fahrenheit to Celsius",
         "Convert Kilometers to Meters",
         "Convert Meters to Kilometers",
-        "Convert Hours to Minutes"
+        "Convert Hours to Minutes",
+        "Find String Index"
     ],
     "completed_commits": 128,
     "last_commit": "",
-    "project_progress": 141
+    "project_progress": 142
 }
