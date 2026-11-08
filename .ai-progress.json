@@ -149,9 +149,10 @@
         "Remove Punctuation",
         "Split a String",
         "Join a List of Strings",
-        "Capitalize First Letter"
+        "Capitalize First Letter",
+        "Count Uppercase Letters"
     ],
-    "completed_commits": 134,
+    "completed_commits": 135,
     "last_commit": "",
-    "project_progress": 149
+    "project_progress": 150
 }
