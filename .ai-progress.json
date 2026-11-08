@@ -1,5 +1,5 @@
 {
-    "current_day": 36,
+    "current_day": 37,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -146,9 +146,10 @@
         "Check String Starts With",
         "Check String Ends With",
         "Find Substring",
-        "Remove Punctuation"
+        "Remove Punctuation",
+        "Split a String"
     ],
     "completed_commits": 132,
     "last_commit": "",
-    "project_progress": 146
+    "project_progress": 147
 }
