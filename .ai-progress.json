@@ -147,9 +147,10 @@
         "Check String Ends With",
         "Find Substring",
         "Remove Punctuation",
-        "Split a String"
+        "Split a String",
+        "Join a List of Strings"
     ],
-    "completed_commits": 132,
+    "completed_commits": 133,
     "last_commit": "",
-    "project_progress": 147
+    "project_progress": 148
 }
