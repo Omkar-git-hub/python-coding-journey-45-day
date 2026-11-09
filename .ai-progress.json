@@ -152,9 +152,10 @@
         "Capitalize First Letter",
         "Count Uppercase Letters",
         "Create a Nested List",
-        "Access Nested List Elements"
+        "Access Nested List Elements",
+        "Update Nested List Elements"
     ],
-    "completed_commits": 136,
+    "completed_commits": 137,
     "last_commit": "",
-    "project_progress": 152
+    "project_progress": 153
 }
