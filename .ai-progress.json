@@ -154,9 +154,10 @@
         "Create a Nested List",
         "Access Nested List Elements",
         "Update Nested List Elements",
-        "Flatten a Simple List"
+        "Flatten a Simple List",
+        "Copy a List"
     ],
-    "completed_commits": 138,
+    "completed_commits": 139,
     "last_commit": "",
-    "project_progress": 154
+    "project_progress": 155
 }
