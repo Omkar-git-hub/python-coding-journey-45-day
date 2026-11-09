@@ -153,9 +153,10 @@
         "Count Uppercase Letters",
         "Create a Nested List",
         "Access Nested List Elements",
-        "Update Nested List Elements"
+        "Update Nested List Elements",
+        "Flatten a Simple List"
     ],
-    "completed_commits": 137,
+    "completed_commits": 138,
     "last_commit": "",
-    "project_progress": 153
+    "project_progress": 154
 }
