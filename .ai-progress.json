@@ -151,9 +151,10 @@
         "Join a List of Strings",
         "Capitalize First Letter",
         "Count Uppercase Letters",
-        "Create a Nested List"
+        "Create a Nested List",
+        "Access Nested List Elements"
     ],
-    "completed_commits": 135,
+    "completed_commits": 136,
     "last_commit": "",
-    "project_progress": 151
+    "project_progress": 152
 }
