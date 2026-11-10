@@ -157,9 +157,10 @@
         "Flatten a Simple List",
         "Copy a List",
         "Create a List Using Range",
-        "Find List Index"
+        "Find List Index",
+        "Check Element in List"
     ],
-    "completed_commits": 140,
+    "completed_commits": 141,
     "last_commit": "",
-    "project_progress": 157
+    "project_progress": 158
 }
