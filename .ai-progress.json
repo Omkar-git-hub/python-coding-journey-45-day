@@ -1,5 +1,5 @@
 {
-    "current_day": 38,
+    "current_day": 39,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -155,9 +155,10 @@
         "Access Nested List Elements",
         "Update Nested List Elements",
         "Flatten a Simple List",
-        "Copy a List"
+        "Copy a List",
+        "Create a List Using Range"
     ],
     "completed_commits": 139,
     "last_commit": "",
-    "project_progress": 155
+    "project_progress": 156
 }
