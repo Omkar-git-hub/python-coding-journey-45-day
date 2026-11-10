@@ -156,9 +156,10 @@
         "Update Nested List Elements",
         "Flatten a Simple List",
         "Copy a List",
-        "Create a List Using Range"
+        "Create a List Using Range",
+        "Find List Index"
     ],
-    "completed_commits": 139,
+    "completed_commits": 140,
     "last_commit": "",
-    "project_progress": 156
+    "project_progress": 157
 }
