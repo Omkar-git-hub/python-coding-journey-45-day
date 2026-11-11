@@ -161,9 +161,10 @@
         "Check Element in List",
         "Clear a List",
         "Create a Tuple With Multiple Values",
-        "Check Element in Tuple"
+        "Check Element in Tuple",
+        "Find Tuple Index"
     ],
-    "completed_commits": 143,
+    "completed_commits": 144,
     "last_commit": "",
-    "project_progress": 161
+    "project_progress": 162
 }
