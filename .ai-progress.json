@@ -1,5 +1,5 @@
 {
-    "current_day": 37,
+    "current_day": 39,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -150,9 +150,18 @@
         "Split a String",
         "Join a List of Strings",
         "Capitalize First Letter",
-        "Count Uppercase Letters"
+        "Count Uppercase Letters",
+        "Create a Nested List",
+        "Access Nested List Elements",
+        "Update Nested List Elements",
+        "Flatten a Simple List",
+        "Copy a List",
+        "Create a List Using Range",
+        "Find List Index",
+        "Check Element in List",
+        "Clear a List"
     ],
-    "completed_commits": 135,
+    "completed_commits": 142,
     "last_commit": "",
-    "project_progress": 150
+    "project_progress": 159
 }
