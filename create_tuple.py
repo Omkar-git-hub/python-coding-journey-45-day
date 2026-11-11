@@ -1,12 +1,9 @@
 def create_tuple():
     """
-    Returns a tuple containing integers from 1 to 5.
+    Create and return a tuple containing multiple values.
 
     Returns:
-        tuple: A tuple (1, 2, 3, 4, 5)
+        tuple: A tuple with several integer elements.
     """
+    # Example tuple with multiple values
     return (1, 2, 3, 4, 5)
-
-
-if __name__ == "__main__":
-    print(create_tuple())
