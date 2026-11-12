@@ -170,9 +170,10 @@
         "Copy a Set",
         "Find Set Length",
         "Loop Through a Dictionary",
-        "Get Dictionary Items"
+        "Get Dictionary Items",
+        "Get Dictionary With Default Value"
     ],
-    "completed_commits": 150,
+    "completed_commits": 151,
     "last_commit": "",
-    "project_progress": 170
+    "project_progress": 171
 }
