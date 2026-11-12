@@ -169,9 +169,10 @@
         "Clear a Set",
         "Copy a Set",
         "Find Set Length",
-        "Loop Through a Dictionary"
+        "Loop Through a Dictionary",
+        "Get Dictionary Items"
     ],
-    "completed_commits": 149,
+    "completed_commits": 150,
     "last_commit": "",
-    "project_progress": 169
+    "project_progress": 170
 }
