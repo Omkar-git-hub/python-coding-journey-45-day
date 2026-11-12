@@ -1,5 +1,5 @@
 {
-    "current_day": 41,
+    "current_day": 42,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -168,9 +168,10 @@
         "Check Set Membership",
         "Clear a Set",
         "Copy a Set",
-        "Find Set Length"
+        "Find Set Length",
+        "Loop Through a Dictionary"
     ],
     "completed_commits": 149,
     "last_commit": "",
-    "project_progress": 168
+    "project_progress": 169
 }
