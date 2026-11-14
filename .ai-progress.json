@@ -178,9 +178,10 @@
         "Use If Else Statement",
         "Use Elif Statement",
         "Use Nested If Statement",
-        "Use For Loop"
+        "Use For Loop",
+        "Use While Loop"
     ],
-    "completed_commits": 156,
+    "completed_commits": 157,
     "last_commit": "",
-    "project_progress": 178
+    "project_progress": 179
 }
