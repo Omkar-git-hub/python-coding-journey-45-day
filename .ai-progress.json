@@ -179,9 +179,10 @@
         "Use Elif Statement",
         "Use Nested If Statement",
         "Use For Loop",
-        "Use While Loop"
+        "Use While Loop",
+        "Use Break Statement"
     ],
-    "completed_commits": 157,
+    "completed_commits": 158,
     "last_commit": "",
-    "project_progress": 179
+    "project_progress": 180
 }
