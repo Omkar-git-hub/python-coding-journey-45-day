@@ -1,5 +1,5 @@
 {
-    "current_day": 43,
+    "current_day": 44,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -177,9 +177,10 @@
         "Use If Statement",
         "Use If Else Statement",
         "Use Elif Statement",
-        "Use Nested If Statement"
+        "Use Nested If Statement",
+        "Use For Loop"
     ],
     "completed_commits": 156,
     "last_commit": "",
-    "project_progress": 177
+    "project_progress": 178
 }
