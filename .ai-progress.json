@@ -1,5 +1,5 @@
 {
-    "current_day": 42,
+    "current_day": 43,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -173,9 +173,10 @@
         "Get Dictionary Items",
         "Get Dictionary With Default Value",
         "Copy a Dictionary",
-        "Clear a Dictionary"
+        "Clear a Dictionary",
+        "Use If Statement"
     ],
     "completed_commits": 153,
     "last_commit": "",
-    "project_progress": 173
+    "project_progress": 174
 }

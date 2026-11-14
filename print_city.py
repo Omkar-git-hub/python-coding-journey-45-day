@@ -1,5 +1,6 @@
-"""Script that prints a city name.
+# print_city.py
+# Prints a city name.
 
-When executed, the module prints the city in a simple format
-``City: <name>``.  The :func:`main` function encapsulates the
-behaviour so that
+def print_city() -> None:
+    """Prints a city name."""
+    print("New York")

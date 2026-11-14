@@ -1,8 +1,4 @@
-"""Module that defines a boolean variable.
+# boolean_variable.py
+# This module defines a boolean variable for testing purposes.
 
-The variable is used by the test suite to confirm that a boolean
-value is correctly defined and can be imported from this module.
-"""
-
-# A simple boolean value that the tests will check.
-boolean_variable: bool = True
+boolean_variable = True
