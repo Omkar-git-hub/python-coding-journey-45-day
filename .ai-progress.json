@@ -181,9 +181,10 @@
         "Use For Loop",
         "Use While Loop",
         "Use Break Statement",
-        "Use Continue Statement"
+        "Use Continue Statement",
+        "Use Pass Statement"
     ],
-    "completed_commits": 159,
+    "completed_commits": 160,
     "last_commit": "",
-    "project_progress": 181
+    "project_progress": 182
 }

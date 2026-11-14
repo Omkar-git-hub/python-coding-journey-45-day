@@ -1,12 +1,10 @@
 def use_continue_statement():
     """
-    Demonstrates the use of the `continue` statement in a for loop.
-    Prints all odd numbers from 1 to 10 inclusive.
+    Demonstrates the use of the continue statement in a loop.
+    The loop iterates from 0 to 4 and skips processing when the iterator is 2.
     """
-    for number in range(1, 11):
-        if number % 2 == 0:
+    for i in range(5):
+        if i == 2:
             continue
-        print(number)
-
-if __name__ == "__main__":
-    use_continue_statement()
+        # Placeholder for additional logic; using pass to indicate no operation.
+        pass

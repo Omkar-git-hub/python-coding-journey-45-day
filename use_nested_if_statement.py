@@ -1,20 +1,23 @@
-def use_nested_if_statement(number):
+def use_nested_if_statement(x, y):
     """
-    Determines the nature of the input number using nested if statements.
-
-    Parameters:
-    number (int or float): The number to evaluate.
-
-    Returns:
-    str: A descriptive string indicating whether the number is positive even,
-         positive odd, negative, or zero.
+    Demonstrates nested if statements.
+    Returns a string describing the relationship between x and y.
     """
-    if number > 0:
-        if number % 2 == 0:
-            return "Positive even"
+    if x > y:
+        if x - y > 10:
+            return "x is much greater than y"
         else:
-            return "Positive odd"
-    elif number < 0:
-        return "Negative"
+            # Placeholder for case where x is greater but not by much.
+            pass
+            return "x is greater than y"
     else:
-        return "Zero"
+        if y - x > 10:
+            return "y is much greater than x"
+        else:
+            # Placeholder for case where y is greater but not by much.
+            pass
+            return "y is greater than x"
+    # If x equals y
+    # Placeholder for equality case.
+    pass
+    return "x and y are equal"
