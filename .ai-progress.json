@@ -185,9 +185,10 @@
         "Use Pass Statement",
         "Print a Pattern Using Loop",
         "Find Sum of Even Numbers",
-        "Find Sum of Odd Numbers"
+        "Find Sum of Odd Numbers",
+        "Count Numbers in a Range"
     ],
-    "completed_commits": 162,
+    "completed_commits": 163,
     "last_commit": "",
-    "project_progress": 185
+    "project_progress": 186
 }
