@@ -183,9 +183,10 @@
         "Use Break Statement",
         "Use Continue Statement",
         "Use Pass Statement",
-        "Print a Pattern Using Loop"
+        "Print a Pattern Using Loop",
+        "Find Sum of Even Numbers"
     ],
-    "completed_commits": 160,
+    "completed_commits": 161,
     "last_commit": "",
-    "project_progress": 183
+    "project_progress": 184
 }
