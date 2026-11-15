@@ -184,9 +184,10 @@
         "Use Continue Statement",
         "Use Pass Statement",
         "Print a Pattern Using Loop",
-        "Find Sum of Even Numbers"
+        "Find Sum of Even Numbers",
+        "Find Sum of Odd Numbers"
     ],
-    "completed_commits": 161,
+    "completed_commits": 162,
     "last_commit": "",
-    "project_progress": 184
+    "project_progress": 185
 }
