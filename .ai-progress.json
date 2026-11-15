@@ -1,5 +1,5 @@
 {
-    "current_day": 44,
+    "current_day": 45,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -182,9 +182,10 @@
         "Use While Loop",
         "Use Break Statement",
         "Use Continue Statement",
-        "Use Pass Statement"
+        "Use Pass Statement",
+        "Print a Pattern Using Loop"
     ],
     "completed_commits": 160,
     "last_commit": "",
-    "project_progress": 182
+    "project_progress": 183
 }
