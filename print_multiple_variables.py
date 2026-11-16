@@ -1,13 +1,9 @@
-"""Module to print multiple variables."""
+# print_multiple_variables.py
+# Prints multiple variables in a single line.
 
-
-def print_multiple_variables():
-    """Print multiple variables in a single line."""
+def print_multiple_variables() -> None:
+    """Prints multiple variables."""
     name = "Alice"
-    age = 30
-    city = "New York"
-    print(f"Name: {name}, Age: {age}, City: {city}")
-
-
-if __name__ == "__main__":
-    print_multiple_variables()
+    age = 28
+    city = "Paris"
+    print(f"{name} {age} {city}")

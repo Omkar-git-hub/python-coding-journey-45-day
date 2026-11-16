@@ -1,45 +1,26 @@
-#!/usr/bin/env python3
-"""
-Print Number Pattern
-
-This script prints a numeric triangle pattern where numbers start from 1 and
-continue sequentially row by row.
-
-Example output for 5 rows:
-1
-2 3
-4 5 6
-7 8 9 10
-11 12 13 14 15
-"""
-
-def generate_pattern(rows: int) -> list[str]:
+def print_number_pattern():
     """
-    Generate the number pattern as a list of strings, each representing a row.
+    Prints a numeric pattern using loops.
 
-    Args:
-        rows: Number of rows in the pattern.
-
-    Returns:
-        List of strings where each string contains space‑separated numbers for that row.
+    The pattern prints numbers starting from 1 up to the current row number.
+    Example for rows = 5:
+    1
+    12
+    123
+    1234
+    12345
     """
-    pattern = []
-    current = 1
-    for r in range(1, rows + 1):
-        row_numbers = [str(num) for num in range(current, current + r)]
-        pattern.append(" ".join(row_numbers))
-        current += r
-    return pattern
+    try:
+        rows = int(input().strip())
+    except Exception:
+        # If input is not provided or invalid, default to 5 rows
+        rows = 5
 
-
-def main() -> None:
-    """
-    Entry point of the script. Prints a 5‑row number pattern.
-    """
-    rows = 5
-    for line in generate_pattern(rows):
+    for i in range(1, rows + 1):
+        # Generate numbers from 1 to i and join them without spaces
+        line = ''.join(str(num) for num in range(1, i + 1))
         print(line)
 
 
 if __name__ == "__main__":
-    main()
+    print_number_pattern()

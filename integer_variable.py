@@ -1,8 +1,4 @@
-"""Module that defines an integer variable.
+# integer_variable.py
+# This module defines an integer variable for testing purposes.
 
-The integer is used by the test suite to verify that the module
-provides a correctly typed and valued integer.
-"""
-
-# An integer value used in the tests.
-integer_variable: int = 42
+integer_variable = 10

@@ -1,13 +1,6 @@
-def print_name():
-    """
-    Reads a name from standard input and prints it.
-    """
-    try:
-        name = input()
-    except EOFError:
-        name = ""
-    print(name)
+# print_name.py
+# Prints a person's name.
 
-
-if __name__ == "__main__":
-    print_name()
+def print_name() -> None:
+    """Prints a person's name."""
+    print("John Doe")
