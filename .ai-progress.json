@@ -188,9 +188,10 @@
         "Find Sum of Odd Numbers",
         "Count Numbers in a Range",
         "Create a Function With Default Arguments",
-        "Use Keyword Arguments"
+        "Use Keyword Arguments",
+        "Use Arbitrary Positional Arguments"
     ],
-    "completed_commits": 164,
+    "completed_commits": 165,
     "last_commit": "",
-    "project_progress": 188
+    "project_progress": 189
 }
