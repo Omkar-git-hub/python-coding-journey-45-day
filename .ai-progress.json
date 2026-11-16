@@ -187,9 +187,10 @@
         "Find Sum of Even Numbers",
         "Find Sum of Odd Numbers",
         "Count Numbers in a Range",
-        "Create a Function With Default Arguments"
+        "Create a Function With Default Arguments",
+        "Use Keyword Arguments"
     ],
-    "completed_commits": 163,
+    "completed_commits": 164,
     "last_commit": "",
-    "project_progress": 187
+    "project_progress": 188
 }
