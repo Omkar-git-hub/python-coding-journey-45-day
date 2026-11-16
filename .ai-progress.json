@@ -1,5 +1,5 @@
 {
-    "current_day": 45,
+    "current_day": 46,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -186,9 +186,10 @@
         "Print a Pattern Using Loop",
         "Find Sum of Even Numbers",
         "Find Sum of Odd Numbers",
-        "Count Numbers in a Range"
+        "Count Numbers in a Range",
+        "Create a Function With Default Arguments"
     ],
     "completed_commits": 163,
     "last_commit": "",
-    "project_progress": 186
+    "project_progress": 187
 }
