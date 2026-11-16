@@ -1,11 +1,29 @@
-def calculate_area(length, width):
-    return length * width
+def print_kwargs(**kwargs):
+    """
+    Print each keyword argument on a separate line in the format 'key: value'.
 
-def calculate_perimeter(length, width):
-    return 2 * (length + width)
+    This function demonstrates the use of arbitrary keyword arguments (**kwargs).
+    It iterates over the provided keyword arguments and prints them.
 
-if __name__ == "__main__":
-    area = calculate_area(width=5, length=10)
-    perimeter = calculate_perimeter(width=5, length=10)
-    print(f"Area: {area}")
-    print(f"Perimeter: {perimeter}")
+    Example:
+        print_kwargs(name="Alice", age=30)
+        # Output:
+        # name: Alice
+        # age: 30
+    """
+    for key, value in kwargs.items():
+        print(f"{key}: {value}")
+
+
+def get_kwargs_as_dict(**kwargs):
+    """
+    Return the keyword arguments as a dictionary.
+
+    This utility function can be used when you need to work with the
+    collected keyword arguments programmatically.
+
+    Example:
+        result = get_kwargs_as_dict(city="Paris", country="France")
+        # result -> {'city': 'Paris', 'country': 'France'}
+    """
+    return dict(kwargs)

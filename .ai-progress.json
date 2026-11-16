@@ -189,9 +189,10 @@
         "Count Numbers in a Range",
         "Create a Function With Default Arguments",
         "Use Keyword Arguments",
-        "Use Arbitrary Positional Arguments"
+        "Use Arbitrary Positional Arguments",
+        "Use Arbitrary Keyword Arguments"
     ],
-    "completed_commits": 165,
+    "completed_commits": 166,
     "last_commit": "",
-    "project_progress": 189
+    "project_progress": 190
 }
