@@ -192,9 +192,10 @@
         "Use Arbitrary Positional Arguments",
         "Use Arbitrary Keyword Arguments",
         "Create a Lambda Function",
-        "Use Map Function"
+        "Use Map Function",
+        "Use Filter Function"
     ],
-    "completed_commits": 167,
+    "completed_commits": 168,
     "last_commit": "",
-    "project_progress": 192
+    "project_progress": 193
 }
