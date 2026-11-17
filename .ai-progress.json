@@ -1,5 +1,5 @@
 {
-    "current_day": 46,
+    "current_day": 47,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -191,9 +191,10 @@
         "Use Keyword Arguments",
         "Use Arbitrary Positional Arguments",
         "Use Arbitrary Keyword Arguments",
-        "Create a Lambda Function"
+        "Create a Lambda Function",
+        "Use Map Function"
     ],
     "completed_commits": 167,
     "last_commit": "",
-    "project_progress": 191
+    "project_progress": 192
 }
