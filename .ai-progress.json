@@ -194,9 +194,10 @@
         "Create a Lambda Function",
         "Use Map Function",
         "Use Filter Function",
-        "Use Zip Function"
+        "Use Zip Function",
+        "Use Enumerate Function"
     ],
-    "completed_commits": 169,
+    "completed_commits": 170,
     "last_commit": "",
-    "project_progress": 194
+    "project_progress": 195
 }
