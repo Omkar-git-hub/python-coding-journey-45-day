@@ -198,9 +198,10 @@
         "Use Enumerate Function",
         "Use List Comprehension",
         "Use Dictionary Comprehension",
-        "Use Set Comprehension"
+        "Use Set Comprehension",
+        "Create a Generator Expression"
     ],
-    "completed_commits": 172,
+    "completed_commits": 173,
     "last_commit": "",
-    "project_progress": 198
+    "project_progress": 199
 }
