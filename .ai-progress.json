@@ -199,9 +199,10 @@
         "Use List Comprehension",
         "Use Dictionary Comprehension",
         "Use Set Comprehension",
-        "Create a Generator Expression"
+        "Create a Generator Expression",
+        "Use Any and All Functions"
     ],
-    "completed_commits": 173,
+    "completed_commits": 174,
     "last_commit": "",
-    "project_progress": 199
+    "project_progress": 200
 }
