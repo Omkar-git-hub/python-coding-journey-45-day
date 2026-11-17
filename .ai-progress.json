@@ -196,9 +196,10 @@
         "Use Filter Function",
         "Use Zip Function",
         "Use Enumerate Function",
-        "Use List Comprehension"
+        "Use List Comprehension",
+        "Use Dictionary Comprehension"
     ],
-    "completed_commits": 170,
+    "completed_commits": 171,
     "last_commit": "",
-    "project_progress": 196
+    "project_progress": 197
 }
