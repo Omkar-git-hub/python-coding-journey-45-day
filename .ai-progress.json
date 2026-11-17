@@ -1,5 +1,5 @@
 {
-    "current_day": 47,
+    "current_day": 48,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -195,9 +195,10 @@
         "Use Map Function",
         "Use Filter Function",
         "Use Zip Function",
-        "Use Enumerate Function"
+        "Use Enumerate Function",
+        "Use List Comprehension"
     ],
     "completed_commits": 170,
     "last_commit": "",
-    "project_progress": 195
+    "project_progress": 196
 }
