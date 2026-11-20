@@ -202,9 +202,10 @@
         "Create a Generator Expression",
         "Use Any and All Functions",
         "Import a Built-in Module",
-        "Use the Math Module"
+        "Use the Math Module",
+        "Use the Random Module"
     ],
-    "completed_commits": 175,
+    "completed_commits": 176,
     "last_commit": "",
-    "project_progress": 202
+    "project_progress": 203
 }
