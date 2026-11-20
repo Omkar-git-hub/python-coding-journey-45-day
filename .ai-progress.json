@@ -201,9 +201,10 @@
         "Use Set Comprehension",
         "Create a Generator Expression",
         "Use Any and All Functions",
-        "Import a Built-in Module"
+        "Import a Built-in Module",
+        "Use the Math Module"
     ],
-    "completed_commits": 174,
+    "completed_commits": 175,
     "last_commit": "",
-    "project_progress": 201
+    "project_progress": 202
 }
