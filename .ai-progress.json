@@ -1,5 +1,5 @@
 {
-    "current_day": 48,
+    "current_day": 49,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -200,9 +200,10 @@
         "Use Dictionary Comprehension",
         "Use Set Comprehension",
         "Create a Generator Expression",
-        "Use Any and All Functions"
+        "Use Any and All Functions",
+        "Import a Built-in Module"
     ],
     "completed_commits": 174,
     "last_commit": "",
-    "project_progress": 200
+    "project_progress": 201
 }
