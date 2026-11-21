@@ -212,9 +212,10 @@
         "Get Current Working Directory",
         "Handle Division by Zero",
         "Use Try Except",
-        "Use Multiple Except Blocks"
+        "Use Multiple Except Blocks",
+        "Use Finally Block"
     ],
-    "completed_commits": 183,
+    "completed_commits": 184,
     "last_commit": "",
-    "project_progress": 212
+    "project_progress": 213
 }
