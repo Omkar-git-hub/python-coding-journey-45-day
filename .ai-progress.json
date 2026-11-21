@@ -1,5 +1,5 @@
 {
-    "current_day": 49,
+    "current_day": 50,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -204,9 +204,10 @@
         "Import a Built-in Module",
         "Use the Math Module",
         "Use the Random Module",
-        "Use the DateTime Module"
+        "Use the DateTime Module",
+        "Create a Python File"
     ],
     "completed_commits": 177,
     "last_commit": "",
-    "project_progress": 204
+    "project_progress": 205
 }
