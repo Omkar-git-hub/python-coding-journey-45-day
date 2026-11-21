@@ -210,9 +210,10 @@
         "Use the Main Function",
         "Use the OS Module",
         "Get Current Working Directory",
-        "Handle Division by Zero"
+        "Handle Division by Zero",
+        "Use Try Except"
     ],
-    "completed_commits": 181,
+    "completed_commits": 182,
     "last_commit": "",
-    "project_progress": 210
+    "project_progress": 211
 }
