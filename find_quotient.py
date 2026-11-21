@@ -1,16 +1,15 @@
 def find_quotient(dividend, divisor):
     """
-    Calculate the quotient of two numbers.
+    Find the integer quotient of two numbers and handle division by zero.
 
     Parameters:
-    dividend (int or float): The number to be divided.
-    divisor (int or float): The number by which to divide.
+        dividend (int): The number to be divided.
+        divisor (int): The number to divide by.
 
     Returns:
-    float: The result of dividend divided by divisor if divisor is not zero.
-    None: If divisor is zero, indicating division cannot be performed.
+        int or None: The integer quotient (using floor division), or None if divisor is zero.
     """
     if divisor == 0:
+        print("Error: Division by zero")
         return None
-    else:
-        return dividend / divisor
+    return dividend // divisor

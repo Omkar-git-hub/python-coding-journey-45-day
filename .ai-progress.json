@@ -1,5 +1,5 @@
 {
-    "current_day": 47,
+    "current_day": 51,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -195,9 +195,27 @@
         "Use Map Function",
         "Use Filter Function",
         "Use Zip Function",
-        "Use Enumerate Function"
+        "Use Enumerate Function",
+        "Use List Comprehension",
+        "Use Dictionary Comprehension",
+        "Use Set Comprehension",
+        "Create a Generator Expression",
+        "Use Any and All Functions",
+        "Import a Built-in Module",
+        "Use the Math Module",
+        "Use the Random Module",
+        "Use the DateTime Module",
+        "Create a Python File",
+        "Import a Custom Module",
+        "Use the Main Function",
+        "Use the OS Module",
+        "Get Current Working Directory",
+        "Handle Division by Zero",
+        "Use Try Except",
+        "Use Multiple Except Blocks",
+        "Use Finally Block"
     ],
-    "completed_commits": 170,
+    "completed_commits": 184,
     "last_commit": "",
-    "project_progress": 195
+    "project_progress": 213
 }

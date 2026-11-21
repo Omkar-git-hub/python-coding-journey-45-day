@@ -1,50 +1,20 @@
-"""
-calculate_power.py
+import math
 
-This module provides a simple utility function to calculate the power of a number.
-"""
-
-def calculate_power(base: float | int, exponent: float | int) -> float | int:
+def calculate_power(base, exponent):
     """
-    Calculate the power of a number.
+    Calculate the power of a number using the math module.
 
-    Parameters
-    ----------
-    base : float | int
-        The base number.
-    exponent : float | int
-        The exponent to raise the base to.
+    Args:
+        base (int | float): The base number.
+        exponent (int | float): The exponent to raise the base to.
 
-    Returns
-    -------
-    float | int
-        The result of base raised to the power of exponent.
-
-    Examples
-    --------
-    >>> calculate_power(2, 3)
-    8
-    >>> calculate_power(5, 0)
-    1
-    >>> calculate_power(9, 0.5)
-    3.0
+    Returns:
+        int | float: The result of base raised to the power of exponent.
+                     Returns an int when both inputs are ints and the
+                     result is mathematically integral; otherwise returns a float.
     """
-    return base ** exponent
-
-
-if __name__ == "__main__":
-    import sys
-
-    if len(sys.argv) != 3:
-        print("Usage: python calculate_power.py <base> <exponent>")
-        sys.exit(1)
-
-    try:
-        base = float(sys.argv[1])
-        exponent = float(sys.argv[2])
-    except ValueError:
-        print("Both base and exponent must be numbers.")
-        sys.exit(1)
-
-    result = calculate_power(base, exponent)
-    print(result)
+    result = math.pow(base, exponent)
+    if isinstance(base, int) and isinstance(exponent, int):
+        if result.is_integer():
+            return int(result)
+    return result
