@@ -208,9 +208,10 @@
         "Create a Python File",
         "Import a Custom Module",
         "Use the Main Function",
-        "Use the OS Module"
+        "Use the OS Module",
+        "Get Current Working Directory"
     ],
-    "completed_commits": 180,
+    "completed_commits": 181,
     "last_commit": "",
-    "project_progress": 208
+    "project_progress": 209
 }
