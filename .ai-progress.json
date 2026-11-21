@@ -205,9 +205,10 @@
         "Use the Math Module",
         "Use the Random Module",
         "Use the DateTime Module",
-        "Create a Python File"
+        "Create a Python File",
+        "Import a Custom Module"
     ],
-    "completed_commits": 177,
+    "completed_commits": 178,
     "last_commit": "",
-    "project_progress": 205
+    "project_progress": 206
 }
