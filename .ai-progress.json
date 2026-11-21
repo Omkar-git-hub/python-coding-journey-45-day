@@ -211,9 +211,10 @@
         "Use the OS Module",
         "Get Current Working Directory",
         "Handle Division by Zero",
-        "Use Try Except"
+        "Use Try Except",
+        "Use Multiple Except Blocks"
     ],
-    "completed_commits": 182,
+    "completed_commits": 183,
     "last_commit": "",
-    "project_progress": 211
+    "project_progress": 212
 }
