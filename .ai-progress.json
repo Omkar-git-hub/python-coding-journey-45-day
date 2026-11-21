@@ -1,5 +1,5 @@
 {
-    "current_day": 50,
+    "current_day": 51,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -209,9 +209,10 @@
         "Import a Custom Module",
         "Use the Main Function",
         "Use the OS Module",
-        "Get Current Working Directory"
+        "Get Current Working Directory",
+        "Handle Division by Zero"
     ],
     "completed_commits": 181,
     "last_commit": "",
-    "project_progress": 209
+    "project_progress": 210
 }
