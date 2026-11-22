@@ -1,5 +1,5 @@
 {
-    "current_day": 51,
+    "current_day": 52,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -213,9 +213,10 @@
         "Handle Division by Zero",
         "Use Try Except",
         "Use Multiple Except Blocks",
-        "Use Finally Block"
+        "Use Finally Block",
+        "Raise a Custom Exception"
     ],
     "completed_commits": 184,
     "last_commit": "",
-    "project_progress": 213
+    "project_progress": 214
 }
