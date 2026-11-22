@@ -1,5 +1,5 @@
 {
-    "current_day": 52,
+    "current_day": 53,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -218,9 +218,10 @@
         "Create a Custom Exception Class",
         "Use Else With Try Except",
         "Handle ValueError",
-        "Handle FileNotFoundError"
+        "Handle FileNotFoundError",
+        "Create a Text File"
     ],
     "completed_commits": 188,
     "last_commit": "",
-    "project_progress": 218
+    "project_progress": 219
 }
