@@ -216,9 +216,10 @@
         "Use Finally Block",
         "Raise a Custom Exception",
         "Create a Custom Exception Class",
-        "Use Else With Try Except"
+        "Use Else With Try Except",
+        "Handle ValueError"
     ],
-    "completed_commits": 186,
+    "completed_commits": 187,
     "last_commit": "",
-    "project_progress": 216
+    "project_progress": 217
 }

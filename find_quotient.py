@@ -1,15 +1,11 @@
-def find_quotient(dividend, divisor):
+def find_quotient(a, b):
     """
-    Find the integer quotient of two numbers and handle division by zero.
+    Returns the quotient of a divided by b.
 
-    Parameters:
-        dividend (int): The number to be divided.
-        divisor (int): The number to divide by.
-
-    Returns:
-        int or None: The integer quotient (using floor division), or None if divisor is zero.
+    Raises:
+        ValueError: If b is zero.
     """
-    if divisor == 0:
-        print("Error: Division by zero")
-        return None
-    return dividend // divisor
+    try:
+        return a / b
+    except ZeroDivisionError as e:
+        raise ValueError("Division by zero is not allowed") from e
