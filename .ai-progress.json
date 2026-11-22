@@ -220,9 +220,10 @@
         "Handle ValueError",
         "Handle FileNotFoundError",
         "Create a Text File",
-        "Write Data to a File"
+        "Write Data to a File",
+        "Read Data From a File"
     ],
-    "completed_commits": 189,
+    "completed_commits": 190,
     "last_commit": "",
-    "project_progress": 220
+    "project_progress": 221
 }
