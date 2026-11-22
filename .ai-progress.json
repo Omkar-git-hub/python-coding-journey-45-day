@@ -219,9 +219,10 @@
         "Use Else With Try Except",
         "Handle ValueError",
         "Handle FileNotFoundError",
-        "Create a Text File"
+        "Create a Text File",
+        "Write Data to a File"
     ],
-    "completed_commits": 188,
+    "completed_commits": 189,
     "last_commit": "",
-    "project_progress": 219
+    "project_progress": 220
 }
