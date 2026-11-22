@@ -217,9 +217,10 @@
         "Raise a Custom Exception",
         "Create a Custom Exception Class",
         "Use Else With Try Except",
-        "Handle ValueError"
+        "Handle ValueError",
+        "Handle FileNotFoundError"
     ],
-    "completed_commits": 187,
+    "completed_commits": 188,
     "last_commit": "",
-    "project_progress": 217
+    "project_progress": 218
 }
