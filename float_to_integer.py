@@ -1,13 +1,12 @@
-# float_to_integer.py
-# Converts a float to an integer by truncating the decimal part.
-
-def float_to_integer(f: float) -> int:
-    """Converts a float to an integer by truncating the decimal part.
-
-    Args:
-        f: The float value to convert.
-
-    Returns:
-        The integer part of the float.
+def float_to_integer(value):
     """
-    return int(f
+    Converts a float (or a string representing a float) to an integer by truncating
+    the decimal part.
+
+    Raises:
+        ValueError: If the value cannot be converted to an integer.
+    """
+    try:
+        return int(value)
+    except (ValueError, TypeError) as e:
+        raise ValueError(f"Invalid float value for conversion to integer: {value!r}") from e

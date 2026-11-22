@@ -1,5 +1,5 @@
 {
-    "current_day": 51,
+    "current_day": 53,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -213,9 +213,18 @@
         "Handle Division by Zero",
         "Use Try Except",
         "Use Multiple Except Blocks",
-        "Use Finally Block"
+        "Use Finally Block",
+        "Raise a Custom Exception",
+        "Create a Custom Exception Class",
+        "Use Else With Try Except",
+        "Handle ValueError",
+        "Handle FileNotFoundError",
+        "Create a Text File",
+        "Write Data to a File",
+        "Read Data From a File",
+        "Append Data to a File"
     ],
-    "completed_commits": 184,
+    "completed_commits": 191,
     "last_commit": "",
-    "project_progress": 213
+    "project_progress": 222
 }
