@@ -1,5 +1,5 @@
 {
-    "current_day": 53,
+    "current_day": 54,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -222,9 +222,10 @@
         "Create a Text File",
         "Write Data to a File",
         "Read Data From a File",
-        "Append Data to a File"
+        "Append Data to a File",
+        "Read File Line by Line"
     ],
     "completed_commits": 191,
     "last_commit": "",
-    "project_progress": 222
+    "project_progress": 223
 }
