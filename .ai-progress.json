@@ -1,5 +1,5 @@
 {
-    "current_day": 54,
+    "current_day": 55,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -227,9 +227,10 @@
         "Count Lines in a File",
         "Count Words in a File",
         "Check File Exists",
-        "Delete a File"
+        "Delete a File",
+        "Create a Basic Class"
     ],
     "completed_commits": 195,
     "last_commit": "",
-    "project_progress": 227
+    "project_progress": 228
 }
