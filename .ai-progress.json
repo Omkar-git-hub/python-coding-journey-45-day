@@ -229,9 +229,10 @@
         "Check File Exists",
         "Delete a File",
         "Create a Basic Class",
-        "Create an Object"
+        "Create an Object",
+        "Add Class Attributes"
     ],
-    "completed_commits": 196,
+    "completed_commits": 197,
     "last_commit": "",
-    "project_progress": 229
+    "project_progress": 230
 }
