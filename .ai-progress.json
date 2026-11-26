@@ -230,9 +230,10 @@
         "Delete a File",
         "Create a Basic Class",
         "Create an Object",
-        "Add Class Attributes"
+        "Add Class Attributes",
+        "Add Instance Attributes"
     ],
-    "completed_commits": 197,
+    "completed_commits": 198,
     "last_commit": "",
-    "project_progress": 230
+    "project_progress": 231
 }
