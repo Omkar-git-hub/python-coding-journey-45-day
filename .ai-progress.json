@@ -228,9 +228,10 @@
         "Count Words in a File",
         "Check File Exists",
         "Delete a File",
-        "Create a Basic Class"
+        "Create a Basic Class",
+        "Create an Object"
     ],
-    "completed_commits": 195,
+    "completed_commits": 196,
     "last_commit": "",
-    "project_progress": 228
+    "project_progress": 229
 }
