@@ -234,9 +234,10 @@
         "Add Instance Attributes",
         "Create a Constructor",
         "Create Instance Methods",
-        "Create Class Methods"
+        "Create Class Methods",
+        "Create Static Methods"
     ],
-    "completed_commits": 200,
+    "completed_commits": 201,
     "last_commit": "",
-    "project_progress": 234
+    "project_progress": 235
 }
