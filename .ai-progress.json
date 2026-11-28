@@ -235,9 +235,10 @@
         "Create a Constructor",
         "Create Instance Methods",
         "Create Class Methods",
-        "Create Static Methods"
+        "Create Static Methods",
+        "Use the Self Keyword"
     ],
-    "completed_commits": 201,
+    "completed_commits": 202,
     "last_commit": "",
-    "project_progress": 235
+    "project_progress": 236
 }
