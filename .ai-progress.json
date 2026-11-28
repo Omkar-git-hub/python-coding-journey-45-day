@@ -1,5 +1,5 @@
 {
-    "current_day": 54,
+    "current_day": 56,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -227,9 +227,18 @@
         "Count Lines in a File",
         "Count Words in a File",
         "Check File Exists",
-        "Delete a File"
+        "Delete a File",
+        "Create a Basic Class",
+        "Create an Object",
+        "Add Class Attributes",
+        "Add Instance Attributes",
+        "Create a Constructor",
+        "Create Instance Methods",
+        "Create Class Methods",
+        "Create Static Methods",
+        "Use the Self Keyword"
     ],
-    "completed_commits": 195,
+    "completed_commits": 202,
     "last_commit": "",
-    "project_progress": 227
+    "project_progress": 236
 }
