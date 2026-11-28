@@ -232,9 +232,10 @@
         "Create an Object",
         "Add Class Attributes",
         "Add Instance Attributes",
-        "Create a Constructor"
+        "Create a Constructor",
+        "Create Instance Methods"
     ],
-    "completed_commits": 198,
+    "completed_commits": 199,
     "last_commit": "",
-    "project_progress": 232
+    "project_progress": 233
 }
