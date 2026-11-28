@@ -1,5 +1,5 @@
 {
-    "current_day": 55,
+    "current_day": 56,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -231,9 +231,10 @@
         "Create a Basic Class",
         "Create an Object",
         "Add Class Attributes",
-        "Add Instance Attributes"
+        "Add Instance Attributes",
+        "Create a Constructor"
     ],
     "completed_commits": 198,
     "last_commit": "",
-    "project_progress": 231
+    "project_progress": 232
 }
